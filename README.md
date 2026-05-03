@@ -13,6 +13,69 @@ Itinéraire complet pour un voyage de 14 jours au Japon (6-20 juillet 2026) cent
 | **Transport** | JR Pass 7j + trajets individuels |
 | **Hôtels** | 2-3★ (550-1200¥/nuit) |
 
+## 🗺️ Visualisation du voyage
+
+```mermaid
+graph TD
+    A["✈️ ARRIVÉE<br/>Haneda Tokyo<br/>Jour 1"] --> B["🏙️ TOKYO 1<br/>Jours 1-3"]
+    
+    B --> B1["🎮 Pokémon Center Shibuya<br/>Le plus grand du monde"]
+    B --> B2["🕹️ Arcade Akihabara<br/>Ceicacu 8 étages"]
+    B --> B3["🎬 Studios Animation<br/>Toei Animation"]
+    B --> B4["🎡 DisneySea<br/>Parc thématique optional"]
+    
+    B --> C["🚄 SHINKANSEN<br/>Tokyo → Osaka<br/>2h45 | Jour 3"]
+    
+    C --> D["🏯 OSAKA<br/>Jours 4-5"]
+    D --> D1["🎮 Pokémon Center Dotonbori"]
+    D --> D2["🎢 Universal Studios Japan<br/>Mario World + Harry Potter"]
+    D --> D3["🏯 Château d'Osaka<br/>Vue illuminée"]
+    D --> D4["⚔️ Musée Samouraï"]
+    
+    D --> E["🚄 TRAIN LOCAL<br/>Osaka → Kyoto<br/>45-75 min | Jour 5"]
+    
+    E --> F["🏛️ KYOTO<br/>Jours 5-7"]
+    F --> F1["🎮 Pokémon Center Kawaramachi"]
+    F --> F2["🎮 NINTENDO MUSEUM<br/>⭐ PRIORITÉ ABSOLUE<br/>Jour 6 - Réservation obligatoire"]
+    F --> F3["🥋 Ninja Training Center<br/>Expérience complète"]
+    F --> F4["🏯 Temples Kyoto<br/>Kinkaku-ji, Fushimi Inari"]
+    F --> F5["🎋 Arashiyama<br/>Forêt de bambou"]
+    F --> F6["🌙 Gion District<br/>Promenade geisha"]
+    
+    F --> G["🚄 TRAIN LOCAL<br/>Kyoto → Nara<br/>45 min | Jour 7"]
+    
+    G --> H["🦌 NARA<br/>Jour 8"]
+    H --> H1["🦌 Nara Park<br/>Daims sacrés"]
+    H --> H2["🏯 Todai-ji<br/>Grand Bouddha"]
+    H --> H3["🎮 Pokémon Center Kintetsu"]
+    H --> H4["⛩️ Kasuga Taisha<br/>Temple illuminé"]
+    
+    H --> I["🚄 SHINKANSEN<br/>Nara → Tokyo<br/>Jour 8"]
+    
+    I --> J["🏙️ TOKYO 2<br/>Jours 9-13"]
+    J --> J1["🎮 Pokémon Center Shinjuku"]
+    J --> J2["🎀 Sanrio Puroland<br/>Hello Kitty World"]
+    J --> J3["🎪 Tokyo Joypolis<br/>Arcade géante"]
+    J --> J4["🗻 Excursion Mt Fuji<br/>Hakone Loop | Jour 10"]
+    J --> J5["🎡 Disneyland<br/>Optional | Jours 11-13"]
+    J --> J6["🎨 Teamlab Borderless<br/>Art numérique"]
+    
+    J --> K["✈️ DÉPART<br/>AF 0287<br/>Tokyo Haneda → Paris CDG<br/>Jour 14 | 11:45"]
+    
+    style A fill:#ff6b6b
+    style B fill:#4ecdc4
+    style C fill:#95e1d3
+    style D fill:#f9ca24
+    style E fill:#95e1d3
+    style F fill:#a29bfe
+    style G fill:#95e1d3
+    style H fill:#fd79a8
+    style I fill:#95e1d3
+    style J fill:#4ecdc4
+    style K fill:#ff6b6b
+    style F2 fill:#ff1493,color:#fff
+```
+
 ## 🗺️ Itinéraire jour par jour
 
 ### Semaine 1 : Tokyo & Découverte
