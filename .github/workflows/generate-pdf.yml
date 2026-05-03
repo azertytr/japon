@@ -14,15 +14,18 @@ on:
 jobs:
   generate-pdf:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Install pandoc and dependencies
+      - name: Install pandoc and weasyprint
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc wkhtmltopdf fonts-noto-cjk
+          sudo apt-get install -y pandoc python3-weasyprint fonts-noto-cjk
 
       - name: Generate PDF from README
         run: |
@@ -30,9 +33,8 @@ jobs:
             -f markdown \
             -t pdf \
             -o Japan-Trip-2026-Itinerary.pdf \
-            --pdf-engine=wkhtmltopdf \
-            --css=- \
-            -V geometry:margin=1in \
+            --pdf-engine=weasyprint \
+            -V geometry:margin=1.5cm \
             -V fontsize=11pt
 
       - name: Upload PDF as artifact
@@ -42,43 +44,37 @@ jobs:
           path: Japan-Trip-2026-Itinerary.pdf
           retention-days: 90
 
-      - name: Comment PR with PDF link
+      - name: Comment PR with download info
         if: github.event_name == 'pull_request'
         uses: actions/github-script@v7
         with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
-            const fs = require('fs');
-            const path = require('path');
-
-            // Get artifact download URL from workflow run
-            const run_id = context.runId;
-            const repo = context.repo;
-
-            const comment = `## 📄 PDF Export Ready
-
-            Your Japan trip itinerary has been converted to PDF!
-
-            📥 **Download PDF**: [Japan-Trip-2026-Itinerary.pdf](https://github.com/${repo.owner}/${repo.repo}/suites/${context.runId}/artifacts)
-
-            You can download the PDF from the workflow artifacts and print it or share it easily.
-
-            ✨ **Features**:
-            - Complete itinerary with all details
-            - Budget breakdown
-            - Practical tips
-            - Mermaid diagram visualization
-            - Printable format`;
-
             github.rest.issues.createComment({
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: comment
+              body: `## 📄 PDF Export Generated
+
+**Your Japan trip itinerary has been converted to PDF!**
+
+📥 **Download**: Check the "Artifacts" section at the top of this PR to download \`Japan-Trip-2026-Itinerary.pdf\`
+
+✨ **Includes**:
+- ✅ Complete 14-day itinerary
+- ✅ Budget breakdown (~920€)
+- ✅ Mermaid journey visualization
+- ✅ All attractions & Pokémon Centers
+- ✅ Practical tips & checklists
+- ✅ Printable format`
             });
 
-      - name: Create release with PDF
-        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-        uses: actions/upload-artifact@v4
-        with:
-          name: Japan-Trip-PDF-Release
-          path: Japan-Trip-2026-Itinerary.pdf
+      - name: Verify PDF generation
+        run: |
+          if [ -f Japan-Trip-2026-Itinerary.pdf ]; then
+            echo "✅ PDF generated successfully"
+            ls -lh Japan-Trip-2026-Itinerary.pdf
+          else
+            echo "❌ PDF generation failed"
+            exit 1
+          fi
