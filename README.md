@@ -37,6 +37,8 @@ graph TD
     E --> F["🏛️ KYOTO<br/>Jours 5-7"]
     F --> F1["🎮 Pokémon Center Kawaramachi"]
     F --> F2["🎮 NINTENDO MUSEUM<br/>⭐ PRIORITÉ ABSOLUE<br/>Jour 6 - Réservation obligatoire"]
+    F --> F2a["📚 Kyoto Manga Museum<br/>300,000 volumes<br/>Jour 7 | 900¥"]
+    F --> F2b["⚔️ Samurai Ninja Museum<br/>Armor + Shuriken<br/>Jour 5 | 4000¥"]
     F --> F3["🥋 Ninja Training Center<br/>Expérience complète"]
     F --> F4["🏯 Temples Kyoto<br/>Kinkaku-ji, Fushimi Inari"]
     F --> F5["🎋 Arashiyama<br/>Forêt de bambou"]
@@ -57,8 +59,11 @@ graph TD
     J --> J2["🎀 Sanrio Puroland<br/>Hello Kitty World"]
     J --> J3["🎪 Tokyo Joypolis<br/>Arcade géante"]
     J --> J4["🗻 Excursion Mt Fuji<br/>Hakone Loop | Jour 10"]
-    J --> J5["🎡 Disneyland<br/>Optional | Jours 11-13"]
-    J --> J6["🎨 Teamlab Borderless<br/>Art numérique"]
+    J --> J5["🎮 PokéPark Kanto<br/>Parc Pokémon NEW 2026<br/>Jours 11-13 | RECOMMANDÉ"]
+    J --> J6["⛩️ Meiji Shrine + Senso-Ji<br/>Temples historiques"]
+    J --> J7["🍣 Tsukiji Fish Market<br/>Sushi frais & quartiers"]
+    J --> J7a["👘 Ikebukuro Otome Road<br/>Manga girls' paradise<br/>Shops spécialisés"]
+    J --> J8["🎨 Teamlab Borderless<br/>Art numérique"]
     
     J --> K["✈️ DÉPART<br/>AF 0287<br/>Tokyo Haneda → Paris CDG<br/>Jour 14 | 11:45"]
     
@@ -85,15 +90,15 @@ graph TD
 
 ### Semaine 2 : Kansai Region
 - **Jour 4** : Pokémon Center Osaka + Universal Studios Japan (USJ) + Château d'Osaka
-- **Jour 5** : Musée Samouraï (Osaka) → Kyoto + Pokémon Center Kyoto
+- **Jour 5** : Musée Samouraï (Osaka) → Kyoto + Pokémon Center Kyoto + **Samurai Ninja Museum Kyoto** ⭐
 - **Jour 6** : **NINTENDO MUSEUM (Kyoto)** - Jour complet réservé + temples Kyoto
-- **Jour 7** : Ninja Training Center + Arashiyama bamboo grove → Nara
+- **Jour 7** : Ninja Training Center + **Kyoto International Manga Museum** ⭐ + Arashiyama bamboo grove → Nara
 - **Jour 8** : Nara Park + Todai-ji + Pokémon Center Nara → Tokyo
 
 ### Semaine 3 : Tokyo & Conclusion
 - **Jour 9** : Retour Tokyo + Sanrio Puroland (optionnel) + Tokyo Joypolis
 - **Jour 10** : Excursion Mont Fuji & Hakone
-- **Jours 11-13** : Jours flexibles (Disneyland, Teamlab, shopping, exploration)
+- **Jours 11-13** : Jours flexibles (PokéPark Kanto, Meiji Shrine, Ikebukuro Otome Road, Teamlab, shopping)
 - **Jour 14** : Départ Paris (11:45 Haneda)
 
 ## 🎯 Points forts
@@ -107,7 +112,8 @@ graph TD
 
 ### 🎢 Parcs & Attractions principales
 - **Nintendo Museum (Kyoto)** - Réservation OBLIGATOIRE - Jour 6
-- **Universal Studios Japan (Osaka)** - Super Mario World + Harry Potter | Jour 4
+- **PokéPark Kanto (Tokyo)** ⭐ NEW 2026 - Le plus grand parc Pokémon permanent du monde | Recommandé jours 11-13
+- **Universal Studios Japan (Osaka)** - Super Mario World + Harry Potter + Super Nintendo World | Jour 4
 - **Tokyo Disneyland** (optionnel) - Jours 11-13
 - **DisneySea** (optionnel) - Jour 3
 - **Sanrio Puroland** (optionnel) - Jour 9
@@ -119,17 +125,197 @@ graph TD
 - Mont Fuji & lac Hakone
 - Ninja Training Center (Kyoto)
 
+## 🆕 Nouvelles attractions & bonus 2026
+
+### 🎮 PokéPark Kanto ⭐ À AJOUTER
+**Le plus grand parc Pokémon permanent du monde - OUVERT FÉVRIER 2026**
+- **Localisation** : Yomiuriland, Tokyo
+- **Taille** : 26 000 m² d'expériences immersives
+- **Attractions** : Pokémon Forest, Sedge Town, 600+ personnages Pokémon
+- **Recommandation** : Ajouter aux jours flexibles (11-13) - jour complet conseillé
+- **Accès** : ~30 min du centre de Tokyo
+
+### 🏛️ Réouvertures importantes
+- **Edo-Tokyo Museum** (31 mars 2026) - Histoire complète de Tokyo
+- **Shuri Castle** (automne 2026) - Okinawa (au-delà du scope actuel)
+
+### 📍 Top attractions - Manga, Ninja, Samurai
+
+**Kyoto - Culture Geek & Historique** ⭐
+- **Kyoto International Manga Museum** ⭐ (300,000+ manga volumes!)
+  - Ancien école primaire convertie
+  - Lecture sur place tous les titres
+  - Coût : 900¥ | Temps : 2-3h
+- **Samurai Ninja Museum Kyoto With Experience**
+  - Porter armure samouraï, shuriken throwing, techniques ninja
+  - Guides en anglais, 7j/7 (09:00-18:30)
+  - Packages à différents prix
+  - À 3 min de Kyoto-Kawaramachi Station
+
+**Tokyo - Anime & Fashion Districts**
+- **Ikebukuro Otome Road** ⭐
+  - Manga boys' love, shops spécialisés
+  - Complément féminin d'Akihabara
+  - À 20 min du centre Tokyo
+- **Akihabara** (déjà au programme ✓)
+  - "Electric Town" - épicentre anime
+  - Shops spécialisés, arcades
+
+**Autres temples** (déjà couvert ✓)
+- Meiji Shrine (gratuit, sanctuaire tranquille)
+- Senso-Ji Temple (gratuit, 650 ans)
+- Kinkaku-ji, Ginkaku-ji, Fushimi Inari (Kyoto)
+
+**Events & Festivals 2026**
+- 🎆 Summer Festivals (juillet) - Illuminations, feux d'artifice, street food
+
+## 🎌 Points forts - Jours Kyoto (5-7)
+
+Kyoto offre une plongée complète dans la culture geek + historique :
+
+### **Jour 5 - Arrivée Kyoto + Découverte Samurai**
+- **Samurai Ninja Museum Kyoto With Experience** ⭐
+  - **Expériences** : Porter armure samouraï, shuriken throwing, techniques ninja
+  - **Bâtiment** : Entre Nishiki Market et Gion (centre touristique)
+  - **Guides** : En anglais, guides amicaux et informés
+  - **Coût** : Packages à différents prix (~3000-5000¥ avec expériences)
+  - **Horaires** : 09:00-18:30 (ouvert 7j/7)
+  - **Accès** : 3 min de Kyoto-Kawaramachi Station
+  - **Temps** : 2-3h recommandé
+
+### **Jour 6 - Nintendo Museum** (voir détails précédents) ✓
+
+### **Jour 7 - Manga Museum + Ninja Training + Nature**
+- **Kyoto International Manga Museum** ⭐
+  - **Collection** : 300,000+ manga volumes (floor-to-ceiling shelves)
+  - **Bâtiment** : Ancien école primaire convertie (charme authentique)
+  - **Concept** : Combinaison musée + bibliothèque
+  - **Libre accès** : Lire tous les titres sur place
+  - **Coût** : 900¥ adultes, 400¥ enfants
+  - **Horaires** : Mercredi-Lundi (fermé mardi)
+  - **Temps** : 2-3h
+  - **Localisation** : Centre Kyoto, facile d'accès
+  
+- **Ninja Training Center** (existant ✓)
+- **Arashiyama Bamboo Grove** (existant ✓)
+
+---
+
+## 📅 Détails - Jours flexibles (11-13)
+
+Ces 3 jours vous offrent plusieurs excellentes options à combiner selon votre énergie :
+
+### 🎮 **Option 1 : PokéPark Kanto** ⭐ RECOMMANDÉ
+- **Pourquoi** : Parc Pokémon permanent le plus grand du monde (NEW 2026)
+- **Durée** : Jour complet (8h-18h)
+- **Coût** : 7000-8000¥ + 1000¥ transport
+- **Accès** : Yomiuriland, ~30 min de Shinjuku
+
+### ⛩️ **Option 2 : Meiji Shrine + Senso-Ji Temple**
+- **Meiji Shrine** (Shibuya/Shinjuku)
+  - Sanctuaire tranquille, 100 000 arbres
+  - Gratuit | Matin conseillé (moins de monde)
+- **Senso-Ji Temple** (Asakusa)
+  - Temple bouddhiste 650 ans, lanterne rouge emblématique
+  - Gratuit | Marché traditionnel à proximité
+- **Durée** : Demi-jour à jour complet
+- **Transport** : Métro Tokyo (800¥)
+
+### 🍣 **Option 3 : Tsukiji Fish Market + quartiers**
+- **Tsukiji Market**
+  - Marché traditionnel, sushi frais, fruits de mer
+  - Meilleurs prix à Tokyo
+  - Meilleur moment : 5h-10h
+- **Quartiers à explorer**
+  - **Ikebukuro Otome Road** ⭐ (manga boys' love, shops spécialisés) - 20 min du centre
+  - Harajuku (fashion & jeunesse)
+  - Akihabara (anime electric town)
+  - Ginza (luxe & shopping)
+  - Roppongi (nightlife)
+- **Durée** : 1-2 jours
+
+### 🎭 **Option 4 : Teamlab Borderless**
+- **Type** : Exposition d'art numérique immersive
+- **Durée** : 3-4h
+- **Coût** : 3200¥
+- **Ambiance** : Surréaliste, très populaire
+
+### 💡 **Combinaison suggérée**
+- **Jour 11** : PokéPark Kanto (jour complet)
+- **Jour 12** : Meiji Shrine (matin) + Tsukiji Market (midi) + Teamlab (après-midi)
+- **Jour 13** : Exploration libre + shopping Pokémon (Akihabara, Harajuku) + Senso-Ji Temple
+
+## 🎌 Recommandations - Manga, Ninja, Samurai Experience
+
+### Pour une immersion complète dans la culture geek + historique
+
+**✅ Ordre recommandé des jours Kyoto :**
+
+1. **Jour 5 (Arrivée)** : Samurai Ninja Museum d'abord
+   - Acclimatation à Kyoto + démarrage immersif
+   - 2-3h en fin d'après-midi après arrivée
+   - Lieux intéressants autour (Nishiki Market, Gion)
+
+2. **Jour 6** : Nintendo Museum (priorité absolue)
+   - Jour complet, réservation confirmée
+   - Focus culture Nintendo
+
+3. **Jour 7** : Manga Museum + Ninja Training
+   - Matin : Kyoto International Manga Museum (2-3h)
+   - Après-midi : Ninja Training Center
+   - Fin de journée : Arashiyama bamboo + Gion
+
+**✅ À Tokyo (jours 11-13) :**
+- Combiner PokéPark Kanto + Ikebukuro Otome Road
+- Jour 12 : Matin Meiji Shrine → Midi Tsukiji → Soir Teamlab
+- Jour 13 : Ikebukuro (Otome Road) + shopping Akihabara
+
+### 💡 Pourquoi ces attractions
+
+| Attraction | Pourquoi | Temps |
+|-----------|---------|-------|
+| Samurai Ninja Museum | Expérience hands-on (armure, shuriken, ninja) | 2-3h |
+| Manga Museum Kyoto | Immense collection (300,000 volumes), authentique | 2-3h |
+| Ikebukuro Otome Road | Complément féminin Akihabara, manga spécialisé | 2-3h |
+| PokéPark Kanto | Parc thématique dédié (26,000 m²) | Jour complet |
+
+### 🎯 Thèmes couverts par ton itinéraire
+
+- ✅ **Pokémon** : 5 Centers + PokéPark Kanto
+- ✅ **Nintendo** : Nintendo Museum (priorité absolue)
+- ✅ **Manga** : Kyoto Manga Museum (300,000 volumes)
+- ✅ **Anime** : Akihabara, Ikebukuro Otome Road
+- ✅ **Ninja** : Ninja Training Center + Samurai Ninja Museum
+- ✅ **Samurai** : Samurai Museum Osaka + Samurai Ninja Museum Kyoto
+- ✅ **Culture** : Temples, sanctuaires, festivals d'été
+- ✅ **Parc à thème** : USJ Super Nintendo World
+
+---
+
 ## 💰 Budget estimation
 
 ```
-Hébergement (13 nuits)    : ~10 800¥ (~75€)
-Transport interne         : ~30 720¥ (~210€)
-Parcs & attractions       : ~36 700¥ (~250€)
-Pokémon & shopping        : ~20 000¥ (~135€)
-Repas & divers            : ~37 500¥ (~255€)
+Hébergement (13 nuits)         : ~10 800¥ (~75€)
+Transport interne              : ~30 720¥ (~210€)
+Parcs & attractions            : ~52 700¥ (~360€)
+  └─ Nintendo Museum: 3000¥, USJ: 10000¥
+  └─ PokéPark Kanto: 8000¥, Manga Museum: 900¥
+  └─ Samurai Ninja Museum: 4000¥, Temples: 3000¥
+  └─ Teamlab: 3200¥, Autres: ~20600¥
+Pokémon & shopping             : ~20 000¥ (~135€)
+Repas & divers                 : ~37 500¥ (~255€)
 ─────────────────────────────────────────
-TOTAL sur place           : ~135 720¥ (~920€)
+TOTAL sur place                : ~151 720¥ (~1035€)
 ```
+
+*Augmentation ~115€ avec nouvelles attractions manga/ninja/geek*
+
+**Détail nouvelles attractions :**
+- Kyoto International Manga Museum : 900¥
+- Samurai Ninja Museum Experience : 4000¥
+- PokéPark Kanto : 8000¥
+- Meiji Shrine + Senso-Ji : Gratuit
+- Teamlab Borderless : 3200¥
 
 *Note : Vols internationaux non inclus (Air France déjà payés)*
 
