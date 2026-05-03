@@ -57,8 +57,10 @@ graph TD
     J --> J2["🎀 Sanrio Puroland<br/>Hello Kitty World"]
     J --> J3["🎪 Tokyo Joypolis<br/>Arcade géante"]
     J --> J4["🗻 Excursion Mt Fuji<br/>Hakone Loop | Jour 10"]
-    J --> J5["🎡 Disneyland<br/>Optional | Jours 11-13"]
-    J --> J6["🎨 Teamlab Borderless<br/>Art numérique"]
+    J --> J5["🎮 PokéPark Kanto<br/>Parc Pokémon NEW 2026<br/>Jours 11-13 | RECOMMANDÉ"]
+    J --> J6["⛩️ Meiji Shrine + Senso-Ji<br/>Temples historiques"]
+    J --> J7["🍣 Tsukiji Fish Market<br/>Sushi frais & quartiers"]
+    J --> J8["🎨 Teamlab Borderless<br/>Art numérique"]
     
     J --> K["✈️ DÉPART<br/>AF 0287<br/>Tokyo Haneda → Paris CDG<br/>Jour 14 | 11:45"]
     
@@ -93,7 +95,7 @@ graph TD
 ### Semaine 3 : Tokyo & Conclusion
 - **Jour 9** : Retour Tokyo + Sanrio Puroland (optionnel) + Tokyo Joypolis
 - **Jour 10** : Excursion Mont Fuji & Hakone
-- **Jours 11-13** : Jours flexibles (Disneyland, Teamlab, shopping, exploration)
+- **Jours 11-13** : Jours flexibles (PokéPark Kanto, Meiji Shrine, temples, Teamlab, shopping)
 - **Jour 14** : Départ Paris (11:45 Haneda)
 
 ## 🎯 Points forts
@@ -147,21 +149,67 @@ graph TD
 - Fushimi Inari (1000 torii rouges)
 
 **Events & Festivals 2026**
-- Asian Games (septembre-octobre, Aichi/Nagoya)
-- Cherry Blossom Festival (avril - avant ton voyage)
-- Summer Festivals (juillet - PENDANT ton voyage)
+- 🎆 Summer Festivals (juillet - PENDANT ton voyage) - Illuminations, feux d'artifice, street food
+
+## 📅 Détails - Jours flexibles (11-13)
+
+Ces 3 jours vous offrent plusieurs excellentes options à combiner selon votre énergie :
+
+### 🎮 **Option 1 : PokéPark Kanto** ⭐ RECOMMANDÉ
+- **Pourquoi** : Parc Pokémon permanent le plus grand du monde (NEW 2026)
+- **Durée** : Jour complet (8h-18h)
+- **Coût** : 7000-8000¥ + 1000¥ transport
+- **Accès** : Yomiuriland, ~30 min de Shinjuku
+
+### ⛩️ **Option 2 : Meiji Shrine + Senso-Ji Temple**
+- **Meiji Shrine** (Shibuya/Shinjuku)
+  - Sanctuaire tranquille, 100 000 arbres
+  - Gratuit | Matin conseillé (moins de monde)
+- **Senso-Ji Temple** (Asakusa)
+  - Temple bouddhiste 650 ans, lanterne rouge emblématique
+  - Gratuit | Marché traditionnel à proximité
+- **Durée** : Demi-jour à jour complet
+- **Transport** : Métro Tokyo (800¥)
+
+### 🍣 **Option 3 : Tsukiji Fish Market + quartiers**
+- **Tsukiji Market**
+  - Marché traditionnel, sushi frais, fruits de mer
+  - Meilleurs prix à Tokyo
+  - Meilleur moment : 5h-10h
+- **Quartiers à explorer**
+  - Harajuku (fashion & jeunesse)
+  - Ikebukuro (anime town)
+  - Ginza (luxe & shopping)
+  - Roppongi (nightlife)
+- **Durée** : 1-2 jours
+
+### 🎭 **Option 4 : Teamlab Borderless**
+- **Type** : Exposition d'art numérique immersive
+- **Durée** : 3-4h
+- **Coût** : 3200¥
+- **Ambiance** : Surréaliste, très populaire
+
+### 💡 **Combinaison suggérée**
+- **Jour 11** : PokéPark Kanto (jour complet)
+- **Jour 12** : Meiji Shrine (matin) + Tsukiji Market (midi) + Teamlab (après-midi)
+- **Jour 13** : Exploration libre + shopping Pokémon (Akihabara, Harajuku) + Senso-Ji Temple
 
 ## 💰 Budget estimation
 
 ```
-Hébergement (13 nuits)    : ~10 800¥ (~75€)
-Transport interne         : ~30 720¥ (~210€)
-Parcs & attractions       : ~36 700¥ (~250€)
-Pokémon & shopping        : ~20 000¥ (~135€)
-Repas & divers            : ~37 500¥ (~255€)
+Hébergement (13 nuits)         : ~10 800¥ (~75€)
+Transport interne              : ~30 720¥ (~210€)
+Parcs & attractions            : ~44 700¥ (~305€)
+  └─ Nintendo Museum: 3000¥, USJ: 10000¥
+  └─ PokéPark Kanto: 8000¥ (NEW), Temples: 3000¥
+  └─ Teamlab: 3200¥, Autres: ~17500¥
+Pokémon & shopping             : ~20 000¥ (~135€)
+Repas & divers                 : ~37 500¥ (~255€)
 ─────────────────────────────────────────
-TOTAL sur place           : ~135 720¥ (~920€)
+TOTAL sur place                : ~143 720¥ (~980€)
 ```
+
+*Augmentation ~60€ avec PokéPark Kanto et Meiji Shrine*
 
 *Note : Vols internationaux non inclus (Air France déjà payés)*
 
