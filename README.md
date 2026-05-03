@@ -107,7 +107,8 @@ graph TD
 
 ### 🎢 Parcs & Attractions principales
 - **Nintendo Museum (Kyoto)** - Réservation OBLIGATOIRE - Jour 6
-- **Universal Studios Japan (Osaka)** - Super Mario World + Harry Potter | Jour 4
+- **PokéPark Kanto (Tokyo)** ⭐ NEW 2026 - Le plus grand parc Pokémon permanent du monde | Recommandé jours 11-13
+- **Universal Studios Japan (Osaka)** - Super Mario World + Harry Potter + Super Nintendo World | Jour 4
 - **Tokyo Disneyland** (optionnel) - Jours 11-13
 - **DisneySea** (optionnel) - Jour 3
 - **Sanrio Puroland** (optionnel) - Jour 9
@@ -118,6 +119,37 @@ graph TD
 - Forêt de bambou Arashiyama
 - Mont Fuji & lac Hakone
 - Ninja Training Center (Kyoto)
+
+## 🆕 Nouvelles attractions & bonus 2026
+
+### 🎮 PokéPark Kanto ⭐ À AJOUTER
+**Le plus grand parc Pokémon permanent du monde - OUVERT FÉVRIER 2026**
+- **Localisation** : Yomiuriland, Tokyo
+- **Taille** : 26 000 m² d'expériences immersives
+- **Attractions** : Pokémon Forest, Sedge Town, 600+ personnages Pokémon
+- **Recommandation** : Ajouter aux jours flexibles (11-13) - jour complet conseillé
+- **Accès** : ~30 min du centre de Tokyo
+
+### 🏛️ Réouvertures importantes
+- **Edo-Tokyo Museum** (31 mars 2026) - Histoire complète de Tokyo
+- **Shuri Castle** (automne 2026) - Okinawa (au-delà du scope actuel)
+
+### 📍 Top attractions confirmées à proximité
+
+**Tokyo must-see** (en plus de ton itinéraire)
+- Meiji Shrine (sanctuaire tranquille)
+- Senso-Ji Temple (temple historique rouge)
+- Tsukiji Fish Market (marché traditionnel)
+
+**Kyoto/Nara complément** (déjà couvert ✓)
+- Kinkaku-ji (Pavillon d'Or) ✓
+- Ginkaku-ji (Pavillon d'Argent)
+- Fushimi Inari (1000 torii rouges)
+
+**Events & Festivals 2026**
+- Asian Games (septembre-octobre, Aichi/Nagoya)
+- Cherry Blossom Festival (avril - avant ton voyage)
+- Summer Festivals (juillet - PENDANT ton voyage)
 
 ## 💰 Budget estimation
 

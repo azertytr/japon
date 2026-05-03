@@ -1,0 +1,84 @@
+name: Generate PDF from README
+
+on:
+  pull_request:
+    paths:
+      - 'README.md'
+      - '.github/workflows/generate-pdf.yml'
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+
+jobs:
+  generate-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install pandoc and dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc wkhtmltopdf fonts-noto-cjk
+
+      - name: Generate PDF from README
+        run: |
+          pandoc README.md \
+            -f markdown \
+            -t pdf \
+            -o Japan-Trip-2026-Itinerary.pdf \
+            --pdf-engine=wkhtmltopdf \
+            --css=- \
+            -V geometry:margin=1in \
+            -V fontsize=11pt
+
+      - name: Upload PDF as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Japan-Trip-PDF
+          path: Japan-Trip-2026-Itinerary.pdf
+          retention-days: 90
+
+      - name: Comment PR with PDF link
+        if: github.event_name == 'pull_request'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Get artifact download URL from workflow run
+            const run_id = context.runId;
+            const repo = context.repo;
+
+            const comment = `## 📄 PDF Export Ready
+
+            Your Japan trip itinerary has been converted to PDF!
+
+            📥 **Download PDF**: [Japan-Trip-2026-Itinerary.pdf](https://github.com/${repo.owner}/${repo.repo}/suites/${context.runId}/artifacts)
+
+            You can download the PDF from the workflow artifacts and print it or share it easily.
+
+            ✨ **Features**:
+            - Complete itinerary with all details
+            - Budget breakdown
+            - Practical tips
+            - Mermaid diagram visualization
+            - Printable format`;
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });
+
+      - name: Create release with PDF
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-artifact@v4
+        with:
+          name: Japan-Trip-PDF-Release
+          path: Japan-Trip-2026-Itinerary.pdf
