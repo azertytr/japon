@@ -8,15 +8,15 @@
 
 ### 🛬 **JOUR 1 | Mardi 7 juillet - ARRIVÉE + SUMO**
 
-| Heure | Activité | Durée | Coût | Notes |
-|-------|----------|-------|------|-------|
-| **05:55** | ✈️ Arrivée Haneda Terminal 3 | - | - | Vol AF 0287 |
-| **06:30-08:00** | 🚆 Transfert → Hôtel (N'EX) | 1h30 | 3000¥ | Récupérer bagages, passer immigration |
-| **08:00-09:00** | 🏨 Check-in hôtel + douche | 1h | - | Se rafraîchir |
-| **09:00-11:30** | 🤼 **Tournoi Sumo** Arashio beya | 2h30 | 2500¥ | Entraînement matinal des lutteurs |
-| **12:00-13:30** | 🍜 Déjeuner | 1h30 | 2000¥ | Restaurant près hôtel |
-| **14:00-18:00** | 🏨 Repos / préparation | 4h | - | Décalage horaire (5h d'avance) |
-| **19:00-21:00** | 🍽️ Dîner & repos | - | 2000¥ | Coucher tôt |
+| Heure | Activité | Lieu & Adresse | Durée | Coût |
+|-------|----------|-----------------|-------|------|
+| **05:55** | ✈️ Arrivée Haneda Terminal 3 | Tokyo International Airport, Haneda | - | - |
+| **06:30-08:00** | 🚆 Transfert → Hôtel (N'EX) | Gare Shinjuku / Shibuya | 1h30 | 3000¥ |
+| **08:00-09:00** | 🏨 Check-in hôtel + douche | Shinjuku/Shibuya | 1h | - |
+| **09:00-11:30** | 🤼 **Tournoi Sumo** Arashio beya | 1-4-2 Kuramae, Taito-ku, Tokyo | 2h30 | 2500¥ |
+| **12:00-13:30** | 🍜 Déjeuner | Près de l'hôtel | 1h30 | 2000¥ |
+| **14:00-18:00** | 🏨 Repos / préparation | Hôtel | 4h | - |
+| **19:00-21:00** | 🍽️ Dîner & repos | Hôtel/Quartier | - | 2000¥ |
 
 **Total jour 1** : ~9500¥ | **Hôtel** : Shinjuku/Shibuya, 850¥/nuit
 
@@ -24,13 +24,13 @@
 
 ### 🎮 **JOUR 2 | Mercredi 8 juillet - CULTURE TOKYO**
 
-| Heure | Activité | Durée | Coût |
-|-------|----------|-------|------|
-| **09:00-10:30** | 🥢 Atelier Baguettes (Ginza) | 1h30 | 4000¥ |
-| **11:00-12:30** | 🌇 Shibuya Sky (vue 360°, 46e) | 1h30 | 3000¥ |
-| **13:00-14:30** | 🍜 Déjeuner | 1h30 | 2000¥ |
-| **15:00-19:00** | 🎮 Pokémon Center Shibuya (plus grand monde) | 4h | 8000¥ |
-| **19:30-21:30** | ✨ Fête Tanabata - Omoide Yokocho | 2h | 2500¥ |
+| Heure | Activité | Lieu & Adresse | Durée | Coût |
+|-------|----------|-----------------|-------|------|
+| **09:00-10:30** | 🥢 Atelier Baguettes (Ginza) | 4-7-9 Ginza, Chuo-ku, Tokyo | 1h30 | 4000¥ |
+| **11:00-12:30** | 🌇 Shibuya Sky (vue 360°, 46e) | 2-24-12 Shibuya, Shibuya-ku, Tokyo | 1h30 | 3000¥ |
+| **13:00-14:30** | 🍜 Déjeuner | Shibuya | 1h30 | 2000¥ |
+| **15:00-19:00** | 🎮 Pokémon Center Shibuya | Shibuya 109 Building, 2-29-1 Shibuya, Tokyo | 4h | 8000¥ |
+| **19:30-21:30** | ✨ Fête Tanabata - Omoide Yokocho | 1-8-10 Nishi-Shinjuku, Tokyo | 2h | 2500¥ |
 
 **Total** : ~19500¥
 
@@ -38,14 +38,14 @@
 
 ### ⛩️ **JOUR 3 | Jeudi 9 juillet - ASAKUSA + DÉPART OSAKA**
 
-| Heure | Activité | Durée | Coût |
-|-------|----------|-------|------|
-| **09:00-10:30** | ⛩️ Asakusa Temple + Nakamise | 1h30 | Gratuit |
-| **11:00-12:30** | 🕹️ Akihabara Arcade Ceicacu | 1h30 | 3000¥ |
-| **13:00-14:15** | 🍜 Lunch + transfert gare | 1h15 | 2000¥ |
-| **14:15-17:00** | 🚄 **Shinkansen** Tokyo → Osaka | 2h45 | 13320¥ |
-| **17:30-18:30** | 🚕 Transfert → hôtel Osaka | 1h | 1500¥ |
-| **19:00-20:30** | 🌃 Umeda Sky Building + dîner | 1h30 | 1500¥ |
+| Heure | Activité | Lieu & Adresse | Durée | Coût |
+|-------|----------|-----------------|-------|------|
+| **09:00-10:30** | ⛩️ Asakusa Temple + Nakamise | 2-3-1 Asakusa, Taito-ku, Tokyo | 1h30 | Gratuit |
+| **11:00-12:30** | 🕹️ Akihabara Arcade Ceicacu | 1-15-8 Soto-Kanda, Chiyoda-ku, Tokyo | 1h30 | 3000¥ |
+| **13:00-14:15** | 🍜 Lunch + transfert gare | Tokyo Station | 1h15 | 2000¥ |
+| **14:15-17:00** | 🚄 **Shinkansen** Tokyo → Osaka | Gare Tokyo → Gare Shin-Osaka | 2h45 | 13320¥ |
+| **17:30-18:30** | 🚕 Transfert → hôtel Osaka | Namba/Shinsaibashi | 1h | 1500¥ |
+| **19:00-20:30** | 🌃 Umeda Sky Building + dîner | 1-1-88 Umeda, Kita-ku, Osaka | 1h30 | 1500¥ |
 
 **Total** : ~21320¥ | **Hôtel** : Namba, 800¥/nuit
 
@@ -53,33 +53,34 @@
 
 ### 🍄 **JOUR 4 | Vendredi 10 juillet - SUPER MARIO WORLD (Jour 1)**
 
-| Heure | Activité |
-|-------|----------|
-| **09:00-22:00** | 🎢 **Universal Studios Japan - Super Nintendo World** |
-| | • Mario Kart, Yoshi Adventure, Donkey Kong |
-| | • Photo spots + restaurants thématisés |
+| Activité | Lieu & Adresse | Coût |
+|----------|-----------------|------|
+| 🎢 **Universal Studios Japan - Super Nintendo World** | 2-1-33 Sakurajima, Konohana-ku, Osaka | 10000¥ |
+| • Mario Kart, Yoshi Adventure, Donkey Kong | Accès direct depuis Gare Universal City | + 5000¥ repas |
+| • Photo spots + restaurants thématisés | | |
 
-**Coût** : 10000¥ (billet) + 5000¥ (repas/shopping)
+**Accès** : Train JR Yume-Sakura Line depuis Namba (30 min)
 
 ---
 
 ### 🍄 **JOUR 5 | Samedi 11 juillet - SUPER MARIO WORLD (Jour 2)**
 
-Même programme USJ, revisiter les attractions.
-
-**Coût** : 9000¥ (billet) + 5000¥ (repas/shopping)
+| Activité | Lieu & Adresse | Coût |
+|----------|-----------------|------|
+| 🎢 **Universal Studios Japan** (jour 2) | 2-1-33 Sakurajima, Konohana-ku, Osaka | 9000¥ |
+| Revisiter attractions et shopping détaillé | Même localisation | + 5000¥ repas |
 
 ---
 
 ### 🏯 **JOUR 6 | Dimanche 12 juillet - OSAKA CULTURE**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **09:00-11:00** | 🏯 Château d'Osaka | 600¥ |
-| **12:00-13:30** | 🎮 Pokémon Center Dotonbori | 5000¥ |
-| **14:00-16:00** | 🕹️ Namco Arcade | 3000¥ |
-| **17:00-18:30** | 🏎️ Mario Kart Arcade | 1000¥ |
-| **19:00-21:00** | 🍜 Dîner | 3000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **09:00-11:00** | 🏯 Château d'Osaka | 1-1 Osaka-jo, Chuo-ku, Osaka | 600¥ |
+| **12:00-13:30** | 🎮 Pokémon Center Osaka | 1-5-33 Dotonbori, Chuo-ku, Osaka | 5000¥ |
+| **14:00-16:00** | 🕹️ Namco Arcade | 1-4-20 Dotonbori, Chuo-ku, Osaka | 3000¥ |
+| **17:00-18:30** | 🏎️ Mario Kart Arcade | Dotonbori / Namba area | 1000¥ |
+| **19:00-21:00** | 🍜 Dîner Dotonbori | Dotonbori, Osaka | 3000¥ |
 
 **Total** : ~12600¥
 
@@ -87,12 +88,14 @@ Même programme USJ, revisiter les attractions.
 
 ### 🦌 **JOUR 7 | Lundi 13 juillet - NARA + KYOTO**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **08:30-09:15** | 🚄 Train Osaka → Nara | 1100¥ |
-| **10:00-14:00** | 🦌 Nara : Kasuga Taisha + Todai-ji (Grand Bouddha) | 800¥ |
-| **15:00-16:00** | 🚄 Train Nara → Kyoto | 1100¥ |
-| **17:00-19:00** | 🏨 Installation hôtel Kyoto | - |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **08:30-09:15** | 🚄 Train Osaka → Nara | Gare Osaka → Gare Nara | 1100¥ |
+| **10:00-12:00** | ⛩️ Kasuga Taisha | 160 Kasugacho, Nara-shi | 400¥ |
+| **12:30-14:00** | 🦌 Todai-ji (Grand Bouddha 15m) | 406 Zoshiocho, Nara-shi | 400¥ |
+| **14:30-15:30** | 🚄 Train Nara → Kyoto | Gare Nara → Gare Kyoto | 1100¥ |
+| **16:00-17:30** | 🚕 Transfert hôtel | Kawaramachi, Kyoto | - |
+| **17:30-19:00** | 🏨 Installation hôtel Kyoto | Kawaramachi area | - |
 
 **Total** : ~3000¥ | **Hôtel** : Kawaramachi, 850¥/nuit
 
@@ -100,11 +103,12 @@ Même programme USJ, revisiter les attractions.
 
 ### 🎮 **JOUR 8 | Mardi 14 juillet - NINTENDO MUSEUM ⭐**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **10:00-12:00** | 🎮 **Nintendo Museum** (Game Boy → Switch) | **3000¥** |
-| **13:00-14:30** | 🍜 Déjeuner | 2000¥ |
-| **15:00-19:00** | Temps libre + repos | - |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **10:00-12:00** | 🎮 **Nintendo Museum** (Game Boy → Switch) | Higashiyama-ku, Kyoto | **3000¥** |
+| | (Réservation confirmée) | https://www.nintendo-museum.jp/en/ | (RÉSERVÉ) |
+| **13:00-14:30** | 🍜 Déjeuner | Kyoto Centre | 2000¥ |
+| **15:00-19:00** | Temps libre + repos (temples optionnels) | Kyoto | - |
 
 **Réservation obligatoire** : https://www.nintendo-museum.jp/en/
 
@@ -112,12 +116,13 @@ Même programme USJ, revisiter les attractions.
 
 ### 🏛️ **JOUR 9 | Mercredi 15 juillet - KYOTO ART & CULTURE**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **09:00-10:30** | 🎮 Pokémon Center Kyoto | 5000¥ |
-| **11:00-13:00** | 📿 Atelier Hanko (sceau personnalisé) | 4000¥ |
-| **14:00-16:00** | 🏯 Kyoto Tower (vue panoramique) | 800¥ |
-| **17:00-19:00** | 🌃 Gion District (quartier geisha) | 3000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **09:00-10:30** | 🎮 Pokémon Center Kyoto | Kawaramachi-dori, Shimogyo-ku, Kyoto | 5000¥ |
+| **11:00-13:00** | 📿 Atelier Hanko (sceau) | Nishiki Market area, Kyoto | 4000¥ |
+| **13:30-14:30** | 🍜 Déjeuner | Nishiki Market, Kyoto | 2000¥ |
+| **14:30-16:00** | 🏯 Kyoto Tower (vue 100m) | Higashishiokojicho, Shimogyo-ku, Kyoto | 800¥ |
+| **17:00-19:00** | 🌃 Gion District (geishas) | Hanamikoji-dori, Higashiyama-ku, Kyoto | 3000¥ |
 
 **Total** : ~12800¥
 
@@ -125,11 +130,13 @@ Même programme USJ, revisiter les attractions.
 
 ### ⛩️ **JOUR 10 | Jeudi 16 juillet - FUSHIMI INARI + FESTIVAL**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **07:00-10:30** | ⛩️ Fushimi Inari (10 000 torii rouges) | Gratuit |
-| **12:00-14:30** | ⚔️ Samurai Walk (expérience historique) | 4000¥ |
-| **17:00-21:00** | 🎆 Gion Matsuri Festival (lanternes, musique) | 2000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **07:00-10:30** | ⛩️ Fushimi Inari (10 000 torii) | Fukakusa Yabunuchicho, Fushimi-ku, Kyoto | Gratuit |
+| | (Prendre train JR Nara → Fushimi Inari gare) | | Transport 1000¥ |
+| **12:00-14:30** | ⚔️ Samurai Walk | Centre Kyoto (Nishiki/Gion area) | 4000¥ |
+| **17:00-21:00** | 🎆 Gion Matsuri Festival | Gion District, Kyoto | 2000¥ |
+| | (Lanternes, musique, sanctuaire Yasaka) | Higashiyama-ku | |
 
 **Total** : ~6000¥
 
@@ -137,11 +144,13 @@ Même programme USJ, revisiter les attractions.
 
 ### ♨️ **JOUR 11 | Vendredi 17 juillet - BAIN TRADITIONNEL (REPOS)**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **09:00-12:00** | Petit-déj tardif + promenade | 2000¥ |
-| **15:00-18:00** | ♨️ Bain public (Makoto no yu / Funaoka Onsen) | 1500¥ |
-| **19:00-21:00** | Dîner local | 3000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **09:00-12:00** | Petit-déj tardif + promenade | Kawaramachi, Kyoto | 2000¥ |
+| **15:00-18:00** | ♨️ Bain public traditionnel | • **Makoto no yu** : Nakanocho, Shimogyo | 1500¥ |
+| | | • **Funaoka Onsen** : Kamogawa-dori, Kamikyo | |
+| | | • **Fu fu no yu Onsen** : Nakadachiuri-dori | |
+| **19:00-21:00** | Dîner local | Gion/Kawaramachi area, Kyoto | 3000¥ |
 
 **Total** : ~6500¥ (jour relaxation)
 
@@ -149,11 +158,14 @@ Même programme USJ, revisiter les attractions.
 
 ### 🥋 **JOUR 12 | Samedi 18 juillet - NINJA & MANGA**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **10:00-12:30** | 🥋 Ninja Training (shuriken, techniques) | 4000¥ |
-| **13:00-16:00** | 📚 Kyoto Manga Museum (300 000 volumes) | 900¥ |
-| **17:00-21:00** | Repos + dîner | 3000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **10:00-12:30** | 🥋 Ninja Training (shuriken) | Nishiki area / Gion, Kyoto | 4000¥ |
+| | (Techniques de combat + costume) | 3 min de Kyoto-Kawaramachi station | |
+| **13:00-16:00** | 📚 Kyoto Manga Museum (300 000 volumes) | 430 Seimeicho, Nakagyō-ku, Kyoto | 900¥ |
+| | (Lecture libre sur place) | 10h-18h (fermé mardi) | |
+| **16:30-17:30** | 🍜 Déjeuner tardif | Kyoto Centre | 2000¥ |
+| **17:30-21:00** | Repos + préparation départ | Hôtel | 3000¥ |
 
 **Total** : ~7900¥
 
@@ -161,12 +173,13 @@ Même programme USJ, revisiter les attractions.
 
 ### 🚄 **JOUR 13 | Dimanche 19 juillet - RETOUR TOKYO**
 
-| Heure | Activité | Coût |
-|-------|----------|------|
-| **09:00-11:45** | 🚄 Shinkansen Kyoto → Tokyo | 13320¥ |
-| **12:30-14:00** | 🏨 Installation hôtel Tokyo | - |
-| **14:30-16:30** | ⛩️ Hei Shrine (sanctuaire forestier) | Gratuit |
-| **19:00-21:00** | 🍜 Dernier dîner Tokyo | 3000¥ |
+| Heure | Activité | Lieu & Adresse | Coût |
+|-------|----------|-----------------|------|
+| **09:00-11:45** | 🚄 Shinkansen Kyoto → Tokyo | Gare Shin-Kyoto → Gare Tokyo | 13320¥ |
+| **12:30-14:00** | 🏨 Installation hôtel Tokyo | Shinjuku/Shibuya | - |
+| **14:30-16:30** | ⛩️ Hei Shrine (forêt sacrée) | 1-1 Jingunishi-cho, Shibuya-ku, Tokyo | Gratuit |
+| | (Meiji Jingu area, 365 espèces arbres) | 15 min à pied de Shinjuku | |
+| **19:00-21:00** | 🍜 Dernier dîner Tokyo | Shinjuku/Shibuya | 3000¥ |
 
 **Total** : ~16320¥
 
@@ -174,12 +187,13 @@ Même programme USJ, revisiter les attractions.
 
 ### ✈️ **JOUR 14 | Lundi 20 juillet - DÉPART**
 
-| Heure | Activité |
-|-------|----------|
-| **07:00-09:30** | 🎁 Petit-déj + shopping duty-free |
-| **09:30-11:15** | 🚕 Transfert → Haneda |
-| **11:45-23:15** | ✈️ **AF 0287** Tokyo → Paris (12h30) |
-| **19:30** | 🏠 Arrivée Paris CDG |
+| Heure | Activité | Lieu & Adresse | Notes |
+|-------|----------|-----------------|-------|
+| **07:00-09:30** | 🎁 Petit-déj + shopping duty-free | Hôtel / Shinjuku | Derniers achats |
+| **09:30-11:15** | 🚕 Transfert → Haneda | Tokyo → Haneda Terminal 3 | 60 min |
+| **11:45-23:15** | ✈️ **AF 0287** Tokyo → Paris | Haneda Terminal 3 | Vol 12h30 |
+| | | | Décalage -9h |
+| **19:30** | 🏠 Arrivée Paris CDG | Paris, France | Même jour |
 
 ---
 
