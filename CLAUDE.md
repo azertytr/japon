@@ -5,7 +5,8 @@
 Ce projet gère un **itinéraire de voyage au Japon (14 jours)** centré autour de Pokémon, Nintendo et parcs à thème. L'objectif est de documenter et maintenir un planning détaillé avec budget, transports, attractions et conseils pratiques.
 
 **Dates** : 7-20 juillet 2026 *(Arrivée mardi 7 juillet à 5h55)*  
-**Budget total** : ~1090€ (sur place - ~160 800¥)  
+**Budget total** : **~1300-1400€** (sur place - **~195 000-205 000¥**) ⚠️ RÉVISÉ  
+**Budget initial** : ~1090€ (~160 800¥) - Hypothèses hôtels trop basses pour pic saison  
 **Destination** : Tokyo → Osaka → Kyoto → Nara → Tokyo
 
 ## 🗂️ Structure du projet
@@ -76,12 +77,13 @@ japon/
    - Utilité : Shinkansen Tokyo↔Osaka, trains locaux
    - Durée idéale : Jours 3-9 (couvre trajets importants)
 
-3. **Hôtels** - Réserver ASAP (juillet = haute saison)
-   - Tokyo 1 (Jours 1-2) : 2 nuits → Shinjuku/Shibuya
-   - Osaka (Jours 4-6) : 3 nuits → Namba
-   - Kyoto (Jours 7-12) : 6 nuits → Kawaramachi
-   - Tokyo 2 (Jour 13) : 1 nuit → Shinjuku/Shibuya
-   - Budget : 650-850¥/nuit (2-3★)
+3. **Hôtels** - Réserver ASAP (juillet = haute saison) ⚠️ PRIX ÉLEVÉS
+   - Tokyo 1 (Jours 1-2) : 2 nuits → Shinjuku/Shibuya : **3500-5500¥/nuit**
+   - Osaka (Jours 4-6) : 3 nuits → Namba : **3000-4500¥/nuit**
+   - Kyoto (Jours 7-12) : 6 nuits → Kawaramachi : **3500-5000¥/nuit**
+   - Tokyo 2 (Jour 13) : 1 nuit → Shinjuku/Shibuya : **3500-5500¥/nuit**
+   - **Sous-total hôtels** : ~45 000-55 000¥ (vs 10 800¥ estimé)
+   - **Comparaison** : Juillet est 4-6x plus cher qu'hors-saison
 
 ### ⚠️ À vérifier régulièrement
 - Horaires d'ouverture des Pokémon Centers
@@ -140,16 +142,16 @@ git push -u origin claude/update-tokyo-itinerary-DdSP6
 - Ajouter horaires d'ouverture si connus
 - Lister les coûts en Yen pour clarté
 
-## 📊 Budget détaillé (ACTUALISÉ)
+## 📊 Budget détaillé (RÉVISÉ - 10 mai 2026)
 
-| Catégorie | Estimation (¥) | EUR | Notes |
-|-----------|----------------|-----|-------|
-| 🏨 Hébergement (13 nuits) | 10 800¥ | ~75€ | 2-3★ hotels |
-| 🚄 Transports (JR Pass + locaux) | 32 000¥ | ~210€ | JR Pass 7j recommandé |
-| 🎮 Attractions & Parcs | 68 000¥ | ~460€ | Nintendo, USJ, temples, ninja |
-| 🍽️ Repas (~2500¥/jour × 14) | 35 000¥ | ~240€ | Restaurants + street food |
-| 🛍️ Shopping Pokémon | 15 000¥ | ~100€ | 5 Centers + Akihabara |
-| **TOTAL** | **~160 800¥** | **~1090€** | Sur place (sans vol) |
+| Catégorie | Estimé initial | RÉVISÉ | Notes |
+|-----------|------------|---------|-------|
+| 🏨 Hébergement (13 nuits) | 10 800¥ | **45 000-55 000¥** | ⚠️ Juillet = haute saison |
+| 🚄 Transports (JR Pass + locaux) | 32 000¥ | 32 000¥ | JR Pass 7j recommandé |
+| 🎮 Attractions & Parcs | 68 000¥ | 68 000¥ | Nintendo, USJ, temples, ninja |
+| 🍽️ Repas (~2500¥/jour × 14) | 35 000¥ | 35 000¥ | Restaurants + street food |
+| 🛍️ Shopping Pokémon | 15 000¥ | 15 000¥ | 5 Centers + Akihabara |
+| **TOTAL** | **~160 800¥** | **~195 000-205 000¥** | **~1300-1400€** |
 
 *Vols internationaux (Paris-Tokyo AF287) non inclus (déjà payés)*
 
@@ -176,10 +178,25 @@ Ajouter détails : `"Ajoute horaires dans le README"`
 - ✅ Buffer : Temps de trajet inclus entre activités
 - ✅ Adresses : Ajoutées pour tous les lieux
 - ✅ HTML/PDF supprimés : README.md source unique
-- ✅ Budget actualisé : ~1090€ (160 800¥)
+- ✅ Budget révisé : **~1300-1400€** (~195 000-205 000¥)
+  - Hôtels haute saison : +35 000-45 000¥ par rapport estimation initiale
+  - Recommandation : Vérifier tarifs réels sur Booking.com/Agoda/jalan.net
+
+---
+
+## 📍 À FAIRE MAINTENANT (Urgence : vérification tarifs hôtels)
+
+1. **Vérifier tarifs réels** sur Booking.com, Agoda, jalan.net pour :
+   - Tokyo Shinjuku/Shibuya (7-8 juillet, 19 juillet)
+   - Osaka Namba (10-12 juillet) 
+   - Kyoto Kawaramachi (13-18 juillet)
+
+2. **Ajuster budget** si tarifs différents de l'estimation révisée (45 000-55 000¥)
+
+3. **Réserver dès confirmation** car juillet = haute saison (risque de rupture stock)
 
 ---
 
 **Dernière mise à jour** : 10 mai 2026  
-**Statut** : ✅ Prêt pour départ  
+**Statut** : ⚠️ En attente vérification tarifs hôtels  
 **Départ prévu** : 7 juillet 2026 (arrivée 5h55 Haneda)
