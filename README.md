@@ -81,30 +81,193 @@ graph TD
     style F2 fill:#ff1493,color:#fff
 ```
 
-## 🗺️ Itinéraire jour par jour
+## 📅 Itinéraire jour par jour
 
-### Semaine 1 : Tokyo & Découverte
-- **Jour 1** (6 juil) : Arrivée Tokyo (05:55 Haneda) + installation hôtel
-- **Jour 2** (7 juil) : Tournoi Sumo + Atelier Baguettes Ginza + Shibuya Sky + Tanabata Festival
-- **Jour 3** (8 juil) : Pokémon Center Shibuya + Asakusa Temple
+### ✈️ SEMAINE 1 : ARRIVÉE TOKYO & DÉCOUVERTE (6-8 juil)
 
-### Semaine 2 : Kansai Region  
-- **Jour 4** (9 juil) : Samurai Combat Training + Akihabara Arcade → Osaka (Shinkansen) + Umeda Sky Building
-- **Jour 5** (10 juil) : **Super Mario World - Universal Studios Japan (jour 1)**
-- **Jour 6** (11 juil) : **Super Mario World - Universal Studios Japan (jour 2)**
-- **Jour 7** (12 juil) : Château d'Osaka + Pokémon Center + Namco Arcade + Mario Kart Arcade
-- **Jour 8** (13 juil) : Nara (Kasuga Taisha → Todai-ji) → Kyoto
+#### 🛬 **Jour 1 | Lundi 6 juillet - ARRIVÉE**
+- **05:55** ✈️ Arrivée Haneda Terminal 3
+- **06:30-07:30** 🚆 Transfert aéroport (N'EX ou Keisei) → Hôtel
+- **08:00-18:00** 🏨 Installation hôtel + repos décalage horaire
+- **18:00-21:00** 🌆 Découverte locale : Shinjuku Crossing, Harajuku Takeshita Street
 
-### Semaine 3 : Kyoto
-- **Jour 9** (14 juil) : **NINTENDO MUSEUM (Kyoto)** ⭐ - Réservation obligatoire 
-- **Jour 10** (15 juil) : Pokémon Center + Atelier Hanko (Sceau) + Kyoto Tower + Gion District
-- **Jour 11** (16 juil) : Fushimi Inari Gates + Samurai Walk + Yasaka Shrine (Gion Matsuri)
-- **Jour 12** (17 juil) : Bain Public Traditionnel (Onsen/Sento) - Jour relaxation
-- **Jour 13** (18 juil) : Ninja Training Centre + Kyoto International Manga Museum
+---
 
-### Semaine 4 : Retour Tokyo & Départ
-- **Jour 14** (19 juil) : Retour Tokyo (Shinkansen) + Hei Shrine + Dernier dîner
-- **Jour 15** (20 juil) : Départ Paris (11:45 Haneda) → Arrivée Paris CDG 19:30
+#### ⚡ **Jour 2 | Mardi 7 juillet - SUMO, CULTURE & FESTIVAL**
+| Horaire | Activité | 📍 Localisation | 💰 Coût |
+|---------|----------|-----------------|---------|
+| **06:30-11:00** | 🤼 **Tournoi Sumo** Arashio beya | Tokyo | 2500¥ |
+| **12:00-14:00** | 🥢 **Atelier Baguettes** (Hashi) | Ginza | 4000¥ |
+| **14:30-18:00** | 🌇 **Shibuya Sky** Vue panoramique 360° (46e étage) | Shibuya | 3000¥ |
+| **19:00-22:00** | ✨ **Fête Tanabata** (Festival des étoiles) | Omoide Yokocho, Shinjuku | 2500¥ |
+
+**Total Jour 2 :** ~12 000¥ | **Repas :** ~2000-3000¥
+
+---
+
+#### 🎮 **Jour 3 | Mercredi 8 juillet - POKÉMON CENTER & ASAKUSA**
+| Horaire | Activité | 📍 Localisation | 📌 Notes |
+|---------|----------|-----------------|---------|
+| **09:00-12:00** | 🎮 **Pokémon Center Shibuya** (le plus grand du monde) | Shibuya 109 Building | Shopping 5000-15000¥ |
+| **13:00-17:00** | ⛩️ **Asakusa** Temple + rue commerçante | District traditionnel | Gratuit (street food ~2000¥) |
+| **17:00-19:00** | 🏯 Senso-Ji Temple + marché Nakamise | Asakusa | Gratuit |
+| **19:00-21:00** | 🍜 Repas traditionnel | Centre-ville | 2000-3000¥ |
+
+**Métro Tokyo :** 800¥
+
+---
+
+### 🏯 SEMAINE 2 : OSAKA & SUPER MARIO WORLD (9-13 juil)
+
+#### ⚔️ **Jour 4 | Jeudi 9 juillet - SAMURAI, AKIHABARA & DÉPART OSAKA**
+| Horaire | Activité | Détails |
+|---------|----------|---------|
+| **08:00-10:00** | ⚔️ **Samurai Combat Training** | Techniques + combats (2h) - 4000¥ |
+| **11:00-13:00** | 🕹️ **Akihabara Arcade** | Ceicacu 8 étages, jeux rétro - 3000¥ |
+| **14:15-17:00** | 🚄 **Shinkansen Tokyo → Osaka** | 2h45, classe économique - 13 320¥ |
+| **18:00-20:00** | 🌃 **Umeda Sky Building** | Sky Walk + marché gastronomique - 1500¥ |
+| **20:00-22:00** | 🏨 Hôtel Installation + repos | Namba/Shinsaibashi |
+
+---
+
+#### 🍄 **Jour 5 | Vendredi 10 juillet - SUPER MARIO WORLD (Jour 1)**
+| | Activité |
+|---|----------|
+| **08:30** | Arrivée USJ (ouverture) |
+| **09:00-22:00** | 🎢 **Universal Studios Japan - Super Nintendo World** |
+| | • Mario Kart (ride principal) |
+| | • Yoshi Adventure |
+| | • Donkey Kong Mine Cart |
+| | • Photo spots immersifs |
+| | • Restaurants thématisés |
+| **Billet** | 9000-11000¥ + Express Pass optionnel (4000-6000¥) |
+| **Repas/Shopping** | ~5000¥ |
+
+---
+
+#### 🍄 **Jour 6 | Samedi 11 juillet - SUPER MARIO WORLD (Jour 2)**
+| | Détails |
+|---|---------|
+| **Jour entier** | 🎢 **USJ Super Nintendo World** |
+| **Objectifs** | Refaire rides + shopping détaillé + jeux interactifs |
+| **Billet** | 8000-10000¥ (jour supplémentaire ou pass 2 jours) |
+| **Conseil** | Arrivée 8h30 - files moins longues le samedi en fin de jour |
+
+---
+
+#### 🏯 **Jour 7 | Dimanche 12 juillet - CHÂTEAU OSAKA & GAMING**
+| Horaire | Activité | 💰 Coût |
+|---------|----------|---------|
+| **09:00-11:00** | 🏯 **Château d'Osaka** + parc | 600¥ |
+| **12:00-13:30** | 🎮 **Pokémon Center** Dotonbori | 5000¥ shopping |
+| **14:00-16:00** | 🕹️ **Namco Arcade** (tokens pour jeux) | 3000¥ |
+| **17:00-18:30** | 🏎️ **Mario Kart Arcade Grand Prix** | 1000¥ |
+| **19:00-21:00** | 🍜 Repas Dotonbori | 2000-3000¥ |
+
+---
+
+#### 🦌 **Jour 8 | Lundi 13 juillet - NARA & DÉPART KYOTO**
+| Horaire | Activité | Détails |
+|---------|----------|---------|
+| **08:30-09:15** | 🚄 **Train Osaka → Nara** | 30-45 min (800-1100¥) |
+| **10:00-14:00** | 🦌 **Nara**<br/>• Kasuga Taisha (temple lanternes rouges)<br/>• Todai-ji (Grand Bouddha 15m)<br/>• Nara Park (daims sacrés gratuit) | 600-800¥ temples<br/>3-4h total |
+| **15:00-16:00** | 🚄 **Train Nara → Kyoto** | 45-60 min (1100¥) |
+| **16:30-18:00** | 🏨 Arrivée Kyoto + installation |  |
+
+---
+
+### 🏛️ SEMAINE 3 : KYOTO CULTURE & GEEK (14-18 juil)
+
+#### 🎮 **Jour 9 | Mardi 14 juillet - NINTENDO MUSEUM ⭐**
+| | Détails |
+|---|---------|
+| **PRIORITÉ ABSOLUE** | ✅ Réservation confirmée : nintendo-museum.jp/en/ |
+| **10:00-12:00** | 🎮 **Nintendo Museum** (créneau 2h) |
+| | • Histoire Nintendo (Game Boy → Switch) |
+| | • Consoles rares & prototypes |
+| | • Zones interactives jouables |
+| | • Boutique exclusive |
+| **Après-midi** | Visite temples optionnels (Kinkaku-ji, Fushimi Inari) |
+| **Billet** | 3000¥ (RÉSERVÉ) + shopping ~3000-5000¥ |
+
+---
+
+#### 🎨 **Jour 10 | Mercredi 15 juillet - POKÉMON, HANKO & KYOTO TOWER**
+| Horaire | Activité | 💰 Coût |
+|---------|----------|---------|
+| **10:00-11:30** | 🎮 **Pokémon Center Kyoto** | 5000¥ shopping |
+| **12:00-14:00** | 📿 **Atelier Fabrication Sceau (Hanko)** | 4000¥ |
+| **14:30-16:30** | 🏯 **Kyoto Tower** Vue panoramique 100m | 800¥ |
+| **17:00-19:30** | 🌃 **Gion District** Promenade geisha + dîner | 3000¥ repas |
+
+---
+
+#### ⛩️ **Jour 11 | Jeudi 16 juillet - FUSHIMI INARI & GION MATSURI**
+| Horaire | Activité | Détails |
+|---------|----------|---------|
+| **07:00-10:30** | ⛩️ **Fushimi Inari Gates** | 10 000 torii rouges, sentiers montagne |
+| | | Arriver tôt = moins foules (gratuit) |
+| **12:00-14:30** | ⚔️ **Samurai Walk** | Marche historique + photos (4000¥) |
+| **17:00-21:00** | 🎆 **Gion Matsuri Festival** | Sanctuaire Yasaka, processions, street food |
+| | | Lanternes flottantes, atmosphère festive |
+
+**Transport Fushimi Inari :** 1000¥ | **Repas Festival :** 2000-3000¥
+
+---
+
+#### ♨️ **Jour 12 | Vendredi 17 juillet - BAIN PUBLIC TRADITIONNEL**
+| | Activité |
+|---|----------|
+| **Jour relaxation** | 🧘 Journée bien-être |
+| **Options Kyoto** | • Makoto no yu (traditionnel populaire) |
+| | • Funaoka Onsen (eau thermale luxe) |
+| | • Fu fu no yu Onsen (complexe complet) |
+| | • Hanano Yu (petite sento bien notée) |
+| **Horaires** | 15h-23h typique (vérifier à l'hôtel) |
+| **Coût** | 600-2000¥ selon établissement |
+| **Programme** | Petit-déjeuner tardif → Bain 15h-18h → Dîner local → Repos |
+
+---
+
+#### 🥋 **Jour 13 | Samedi 18 juillet - NINJA TRAINING & MANGA MUSEUM**
+| Horaire | Activité | 💰 Coût |
+|---------|----------|---------|
+| **10:00-12:30** | 🥋 **Ninja Training Centre** | 4000¥ |
+| | • Shuriken (étoiles) lancer |
+| | • Techniques combat ninja |
+| | • Costume ninja inclus parfois |
+| **13:30-16:30** | 📚 **Kyoto International Manga Museum** | 900¥ |
+| | • 300 000+ mangas à lire sur place |
+| | • Floor-to-ceiling shelves |
+| | • Ancien bâtiment école primaire |
+| **17:00-20:00** | 🌆 Détente + préparation départ lendemain |  |
+
+---
+
+### 🚄 SEMAINE 4 : RETOUR TOKYO & DÉPART (19-20 juil)
+
+#### 🏯 **Jour 14 | Dimanche 19 juillet - RETOUR TOKYO & HEI SHRINE**
+| Horaire | Activité | Détails |
+|---------|----------|---------|
+| **09:00-11:45** | 🚄 **Shinkansen Kyoto → Tokyo** | 2h15-2h45, classe économique (13 320¥) |
+| **12:30-14:00** | 🏨 Installation hôtel Tokyo retour | Shinjuku/Shibuya |
+| **14:30-16:30** | ⛩️ **Hei Shrine** (Meiji Jingu area) | Forêt sacrée, gratuit, atmosphère paisible |
+| **17:00-19:00** | 🌃 Exploration libre + shopping final |  |
+| **19:30-21:30** | 🍜 **Dernier Dîner Tokyo** | Ramen, sushi, yakitori, okonomiyaki (2000-5000¥) |
+
+---
+
+#### ✈️ **Jour 15 | Lundi 20 juillet - DÉPART PARIS**
+| Horaire | Activité | Détails |
+|---------|----------|---------|
+| **07:00-09:00** | 🎁 Petit-déjeuner + derniers achats |  |
+| **09:30-11:15** | 🛫 Transfert Haneda | ~1h30 depuis hôtel |
+| **11:45-23:15** | ✈️ **Vol AF 0287** Tokyo HND → Paris CDG | 12h30 de vol |
+| **19:30** | 🏠 Arrivée Paris CDG | Retour à la maison ! |
+
+---
+
+## 🎯 RÉSUMÉ ACTIVITÉS CLÉS
 
 ## 🎯 Points forts du programme
 
