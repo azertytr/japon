@@ -153,6 +153,18 @@ git push -u origin claude/update-tokyo-itinerary-DdSP6
 | 🛍️ Shopping Pokémon | 15 000¥ | 15 000¥ | 5 Centers + Akihabara |
 | **TOTAL** | **~160 800¥** | **~195 000-205 000¥** | **~1300-1400€** |
 
+
+## 📊 Budget détaillé (ACTUALISÉ)
+
+| Catégorie | Estimation (¥) | EUR | Notes |
+|-----------|----------------|-----|-------|
+| 🏨 Hébergement (13 nuits) | 10 800¥ | ~75€ | 2-3★ hotels |
+| 🚄 Transports (JR Pass + locaux) | 32 000¥ | ~210€ | JR Pass 7j recommandé |
+| 🎮 Attractions & Parcs | 68 000¥ | ~460€ | Nintendo, USJ, temples, ninja |
+| 🍽️ Repas (~2500¥/jour × 14) | 35 000¥ | ~240€ | Restaurants + street food |
+| 🛍️ Shopping Pokémon | 15 000¥ | ~100€ | 5 Centers + Akihabara |
+| **TOTAL** | **~160 800¥** | **~1090€** | Sur place (sans vol) |
+
 *Vols internationaux (Paris-Tokyo AF287) non inclus (déjà payés)*
 
 ## 🔗 Ressources importantes
@@ -194,9 +206,11 @@ Ajouter détails : `"Ajoute horaires dans le README"`
 2. **Ajuster budget** si tarifs différents de l'estimation révisée (45 000-55 000¥)
 
 3. **Réserver dès confirmation** car juillet = haute saison (risque de rupture stock)
+- ✅ Budget actualisé : ~1090€ (160 800¥)
 
 ---
 
 **Dernière mise à jour** : 10 mai 2026  
 **Statut** : ⚠️ En attente vérification tarifs hôtels  
+**Statut** : ✅ Prêt pour départ  
 **Départ prévu** : 7 juillet 2026 (arrivée 5h55 Haneda)
