@@ -18,7 +18,7 @@
 | **14:00-18:00** | 🏨 Repos / préparation | Hôtel | 4h | - |
 | **19:00-21:00** | 🍽️ Dîner & repos | Hôtel/Quartier | - | 2000¥ |
 
-**Total jour 1** : ~9500¥ | **Hôtel** : Shinjuku/Shibuya, 850¥/nuit
+**Total jour 1** : ~9500¥ | **Hôtel** : Shinjuku/Shibuya, 3500-5500¥/nuit (pic saison)
 
 ---
 
@@ -47,7 +47,7 @@
 | **17:30-18:30** | 🚕 Transfert → hôtel Osaka | Namba/Shinsaibashi | 1h | 1500¥ |
 | **19:00-20:30** | 🌃 Umeda Sky Building + dîner | 1-1-88 Umeda, Kita-ku, Osaka | 1h30 | 1500¥ |
 
-**Total** : ~21320¥ | **Hôtel** : Namba, 800¥/nuit
+**Total** : ~21320¥ | **Hôtel** : Namba, 3000-4500¥/nuit (pic saison)
 
 ---
 
@@ -97,7 +97,7 @@
 | **16:00-17:30** | 🚕 Transfert hôtel | Kawaramachi, Kyoto | - |
 | **17:30-19:00** | 🏨 Installation hôtel Kyoto | Kawaramachi area | - |
 
-**Total** : ~3000¥ | **Hôtel** : Kawaramachi, 850¥/nuit
+**Total** : ~3000¥ | **Hôtel** : Kawaramachi, 3500-5000¥/nuit (pic saison)
 
 ---
 
@@ -216,14 +216,19 @@
 
 ## 💰 BUDGET TOTAL
 
-| Catégorie | Estimation |
-|-----------|-----------|
-| 🏨 Hôtels (13 nuits) | ~10 800¥ |
-| 🚄 Transports (JR Pass + locaux) | ~32 000¥ |
-| 🎮 Attractions & parcs | ~68 000¥ |
-| 🍽️ Repas (~2500¥/jour) | ~35 000¥ |
-| 🛍️ Shopping Pokémon | ~15 000¥ |
-| **TOTAL** | **~160 800¥ (~1090€)** |
+| Catégorie | Estimation (ancien) | Estimation RÉVISÉE |
+|-----------|-----------|-----------|
+| 🏨 Hôtels (13 nuits) | ~10 800¥ | **~45 000-55 000¥** |
+| 🚄 Transports (JR Pass + locaux) | ~32 000¥ | ~32 000¥ |
+| 🎮 Attractions & parcs | ~68 000¥ | ~68 000¥ |
+| 🍽️ Repas (~2500¥/jour) | ~35 000¥ | ~35 000¥ |
+| 🛍️ Shopping Pokémon | ~15 000¥ | ~15 000¥ |
+| **TOTAL** | **~160 800¥ (~1090€)** | **~195 000-205 000¥ (~1320-1390€)** |
+
+⚠️ **NOTES**:
+- **Juillet = haute saison** : Les tarifs hôtels 2-3★ sont 3,5-5,5x plus élevés que l'estimation initiale
+- **À vérifier** : Booking.com, Agoda, jalan.net pour confirmer tarifs réels en juillet 2026
+- **Budget révisé** : +35 000-45 000¥ (~240-300€) à prévoir pour hébergement
 
 *Vols Paris-Tokyo non inclus (déjà payés)*
 
