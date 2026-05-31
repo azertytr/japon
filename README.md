@@ -44,21 +44,27 @@
 
 ---
 
-### 🍄 **JOUR 4 | Vendredi 10 juillet - UNIVERSAL STUDIOS - SUPER NINTENDO WORLD (J1)**
+### 🍄 **JOUR 4 | Vendredi 10 juillet - UNIVERSAL STUDIOS SUPER MARIO WORLD (J1) ⭐**
 
-| Activité | Détails | Coût |
-|----------|---------|------|
-| 🎢 **Universal Studios Japan** | Mario Kart, Yoshi, Donkey Kong | 10000¥ |
-| | Accès train JR Yume-Sakura depuis Namba (30 min) | + 5000¥ repas |
+| Heure | Activité | Détails | Coût |
+|-------|----------|---------|------|
+| **09:00-17:30** | 🎢 **Universal Studios Japan - 2-Day Pass (Adult x2)** | Mario Kart, Yoshi, Donkey Kong rides | Inclus pass |
+| **17:00-18:30** | 🚕 Train JR Yume-Sakura depuis Namba | 30 min depuis hôtel | 4000¥ |
+| **18:30-21:00** | 🍜 Dîner thématisé + repos | Restaurants parc | 5000¥ |
+
+**Total jour 4** : ~9000¥ | **Réservation confirmée** ✅
 
 ---
 
-### 🍄 **JOUR 5 | Samedi 11 juillet - UNIVERSAL STUDIOS (J2)**
+### 🍄 **JOUR 5 | Samedi 11 juillet - UNIVERSAL STUDIOS SUPER MARIO WORLD (J2) ⭐**
 
-| Activité | Détails | Coût |
-|----------|---------|------|
-| 🎢 **Universal Studios Japan** | Revisiter + shopping | 9000¥ |
-| | Photo spots + restaurants thématisés | + 5000¥ repas |
+| Heure | Activité | Détails | Coût |
+|-------|----------|---------|------|
+| **09:00-17:30** | 🎢 **Universal Studios Japan - Jour 2** | Revisiter rides favorites + shopping | Inclus pass |
+| **12:00-13:30** | 🍜 Lunch dans le parc | Mario thématisé | 2500¥ |
+| **17:30-20:00** | 🚕 Retour hôtel + dîner | Namba | 2500¥ |
+
+**Total jour 5** : ~5000¥ | **2-Day Pass Adult x2 - CONFIRMÉ** ✅
 
 ---
 
@@ -86,27 +92,30 @@
 
 ---
 
-### 🎮 **JOUR 8 | Mardi 14 juillet - NINTENDO MUSEUM ⭐**
+### ⛩️ **JOUR 8 | Mardi 14 juillet - REPOS & TEMPLE KYOTO**
 
 | Heure | Activité | Détails | Coût |
 |-------|----------|---------|------|
-| **10:00-12:00** | 🎮 **Nintendo Museum** | Higashiyama-ku | 3000¥ |
-| **12:00-19:00** | 🍜 Déjeuner + temps libre | Repos/repos hôtel | 2000¥ |
+| **09:00-11:30** | ⛩️ Ginkaku-ji (Pavillon d'Argent) | Temple zen + jardin tranquille | Gratuit |
+| **12:00-16:00** | 🍜 Déjeuner + repos climatisé complet | Hôtel | 2500¥ |
+| **16:30-20:00** | 🌅 Promenade Kawaramachi + dîner | Repos avant jours intensifs | 2500¥ |
 
-**Réservation confirmée** : https://www.nintendo-museum.jp/en/
+**Total** : ~5000¥ | **Conseil** : Jour transition, repos avant intensité (jours 9-12 chargés)
 
 ---
 
-### 🏛️ **JOUR 9 | Mercredi 15 juillet - KYOTO ART & ACTIVITÉS MATIN**
+### 🏛️ **JOUR 9 | Mercredi 15 juillet - KYOTO ART + NINTENDO MUSEUM SOIR ⭐**
 
 | Heure | Activité | Détails | Coût |
 |-------|----------|---------|------|
 | **09:00-10:30** | 📿 Atelier Hanko | Nishiki Market | 4000¥ |
 | **11:00-13:00** | 🎮 Pokémon Center Kyoto | Shopping | 5000¥ |
-| **13:00-16:00** | 🍜 Déjeuner + repos climatisé | Hôtel | 2500¥ |
-| **16:30-20:30** | 🌃 Promenade Gion + repas | Gratuit | 2500¥ |
+| **13:00-16:30** | 🍜 Déjeuner + repos climatisé | Hôtel | 2500¥ |
+| **16:30-17:15** | 🚕 Transfert vers Nintendo Museum | Higashiyama-ku | 1000¥ |
+| **17:00-20:00** | 🎮 **Nintendo Museum** | Entrée 17h-17h30 | **3000¥** |
+| **20:15-21:30** | 🍜 Dîner + retour hôtel | Kawaramachi | 2500¥ |
 
-**Total** : ~14000¥ | **Conseil** : Repos 14-17h (trop chaud)
+**Total** : ~18000¥ | **Réservation confirmée** : https://www.nintendo-museum.jp/en/ | ⚠️ Soirée chargée, repos optimal jeudi
 
 ---
 
