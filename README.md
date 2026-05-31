@@ -131,17 +131,17 @@
 
 ---
 
-### 🎮 **JOUR 11 | Vendredi 17 juillet - POKEMON KANTO FULL DAY** ⭐
+### ♨️ **JOUR 11 | Vendredi 17 juillet - REPOS & DÉTENTE KYOTO**
 
 | Heure | Activité | Détails | Coût |
 |-------|----------|---------|------|
-| **10:00-12:30** | 🎮 **Pokemon Center Kyoto** | Shopping Gen 1 Kanto | 8000¥ |
-| **12:30-14:00** | 🍜 Lunch + repos | Kawaramachi | 3000¥ |
-| **14:00-16:30** | 🎮 **Pokemon Stores + Arcade Games** | Exploration cartes/figurines | 5000¥ |
-| **16:30-19:30** | 🏥 Repos + ♨️ Bain traditionnel | Makoto no yu / Fu fu no yu | 1500¥ |
-| **19:30-21:00** | 🍜 Dîner | Kawaramachi | 2500¥ |
+| **09:00-11:00** | 🚶 Promenade Arashiyama | Bamboo Grove (gratuit) | Gratuit |
+| **12:00-14:00** | 🍜 Lunch tranquille | Kawaramachi | 2500¥ |
+| **14:00-17:00** | 🏨 Repos hôtel climatisé | Récupération avant ninja training | 1000¥ |
+| **17:00-19:30** | ♨️ Onsen traditionnel | Bain thermal local | 1500¥ |
+| **19:30-21:00** | 🍜 Dîner relaxe | Kawaramachi | 2500¥ |
 
-**Total** : ~21500¥ | **POKEMON COMPLETE DAY** - Shopping + bain relaxant | ⚠️ Hydratation constante!
+**Total** : ~7500¥ | **Jour repos avant jour intense (jour 12 - ninja training)**
 
 ---
 
@@ -226,10 +226,10 @@
 |-----------|-----------|-----------|
 | 🏨 Hôtels (13 nuits) | ~10 800¥ | **~45 000-55 000¥** |
 | 🚄 Transports (JR Pass + locaux) | ~32 000¥ | ~32 000¥ |
-| 🎮 Attractions & parcs | ~68 000¥ | **~78 000¥** |
+| 🎮 Attractions & parcs | ~68 000¥ | **~64 000¥** |
 | 🍽️ Repas (~2500¥/jour) | ~35 000¥ | ~35 000¥ |
-| 🛍️ Shopping Pokémon (jour 11 full) | ~15 000¥ | **~25 000¥** |
-| **TOTAL** | **~160 800¥ (~1090€)** | **~215 000-225 000¥ (~1450-1520€)** |
+| 🛍️ Shopping + détente | ~15 000¥ | **~12 000¥** |
+| **TOTAL** | **~160 800¥ (~1090€)** | **~188 000-198 000¥ (~1270-1350€)** |
 
 ⚠️ **NOTES**:
 - **Juillet = haute saison** : Les tarifs hôtels 2-3★ sont 3,5-5,5x plus élevés que l'estimation initiale
