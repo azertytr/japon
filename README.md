@@ -1,277 +1,352 @@
-# 🎮 Japon 2026 - Itinéraire Pokemon & Nintendo
-
-**Dates** : 7-20 juillet 2026 | **Budget** : ~1300-1400€ sur place | **Route** : Tokyo → Osaka → Kyoto → Tokyo | **Météo** : 🌡️ Très chaud & humide (30-35°C) - Hydratation constante!!
+# 🎮 Japan 2026 - Pokemon & Nintendo Adventure
 
 ---
 
-## 📅 PROGRAMME JOUR PAR JOUR
+## ⚡ QUICK REFERENCE (Everything You Need to Know)
 
-### 🛬 **JOUR 1 | Mardi 7 juillet - ARRIVÉE + ACTIVITÉS TOKYO**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **05:55-09:00** | ✅ ✈️ Arrivée Haneda + transfert hôtel | N'EX Express | 3000¥ |
-| **09:00-12:00** | ✅ 🏨 Installation hôtel + repos après vol | Shinjuku/Shibuya | 2000¥ |
-| **12:00-17:00** | ✅ ⛩️ Asakusa Temple + Nakamise | Tokyo | Gratuit |
-| **17:00-18:30** | ✅ 🕹️ Akihabara Arcade | Gaming | 3000¥ |
-| **18:30-20:00** | ✅ ⛩️ Shogiji Temple (1000 lanternes) | Tokyo | Gratuit |
-| **20:00-22:00** | ✅ ✨ Fête Tanabata | Omoide Yokocho (Shinjuku) | 2500¥ |
-| **22:00-23:30** | 🤼 **Tournoi Sumo** Arashio beya (optionnel) | Kuramae, Tokyo | 2500¥ |
-
-**Total jour 1** : ~11000¥ (avec sumo) ou ~8500¥ (sans sumo) | **Hôtel** : 3500-5500¥/nuit | ✅ **6 activités complétées !**
+| | |
+|---|---|
+| **Dates** | 7-20 juillet 2026 (14 days) |
+| **Route** | Tokyo → Osaka → Kyoto → Tokyo |
+| **Total Budget** | ~1300-1400€ (~195,000-205,000¥) |
+| **Weather** | Very hot & humid (30-35°C) - Constant hydration needed! |
 
 ---
 
-### 🎮 **JOUR 2 | Mercredi 8 juillet - TOKYO SHIBUYA + SHINJUKU (optimisé géographiquement)**
+## ✅ STATUS AT A GLANCE
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-11:00** | 🌇 Shibuya Sky | Vue 360° (46e étage) | 3000¥ |
-| **11:15-13:00** | 🎮 Pokémon Center Shibuya | Shibuya 109 Building | 5000¥ |
-| **13:00-14:30** | 🍜 Déjeuner Shibuya | Local | 2500¥ |
-| **14:30-17:00** | 🏨 Repos climatisé hôtel (chaleur) | Shinjuku/Shibuya | 1500¥ |
-| **17:00-18:30** | 🥢 Atelier Baguettes | Ginza | 4000¥ |
-| **19:00-21:30** | 🏨 Repos + dîner hôtel | Shinjuku/Shibuya | 2000¥ |
+### ✅ Completed (Day 1 - Wow!)
+- Tanabata Festival (Omoide Yokocho)
+- Asakusa Temple + Shopping
+- Akihabara Arcade
+- Shogiji Temple (1000 lanterns)
 
-**Total** : ~16000¥ | **Note** : Tanabata complété jour 1 ✅ | **Optimisation** : Groupé Shibuya AM (même quartier), repos PM
+### 🔒 Confirmed Reservations
+- ✅ Universal Studios Japan (Days 4-5) - 2-Day Pass
+- ✅ Nintendo Museum (Day 9, evening)
 
----
-
-### ⛩️ **JOUR 3 | Jeudi 9 juillet - DÉPART TOKYO → OSAKA (repos/récupération)**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-11:00** | 🏨 Petit-déjeuner + repos hôtel | Tokyo | 1500¥ |
-| **11:00-13:45** | 🍜 Lunch à gare Tokyo | Bento/ramen rapide | 1500¥ |
-| **14:00-17:00** | 🚄 Shinkansen Tokyo → Osaka | 2h45, départ 14h | 15320¥ |
-| **17:30-20:30** | 🚕 Transfert hôtel + Umeda Sky | Osaka | 1500¥ |
-
-**Total** : ~20320¥ | **Note** : Asakusa & Akihabara complétés jour 1 ✅ | **Optimisation** : Repos supplémentaire matin (récupération après jour 1 intensif), Shinkansen 14h | **Hôtel** : Namba, 3000-4500¥/nuit
+### ⚠️ Must Do Before Trip
+- [ ] Book hotels (Tokyo, Osaka, Kyoto)
+- [ ] Decide on JR Pass (recommended ~29,650¥)
+- [ ] Buy sunscreen SPF50+ & water bottle
 
 ---
 
-### 🍄 **JOUR 4 | Vendredi 10 juillet - UNIVERSAL STUDIOS SUPER MARIO WORLD (J1) ⭐**
+## 📅 DAY-BY-DAY ITINERARY
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-17:30** | 🎢 **Universal Studios Japan - 2-Day Pass (Adult x2)** | Mario Kart, Yoshi, Donkey Kong rides | Inclus pass |
-| **17:00-18:30** | 🚕 Train JR Yume-Sakura depuis Namba | 30 min depuis hôtel | 4000¥ |
-| **18:30-21:00** | 🍜 Dîner thématisé + repos | Restaurants parc | 5000¥ |
+### 🛬 DAY 1 | Tuesday, July 7 - ARRIVAL + TOKYO EXPLORATION
 
-**Total jour 4** : ~9000¥ | **Réservation confirmée** ✅
+**✅ COMPLETED TODAY!**
 
----
+| Time | What | Cost |
+|------|------|------|
+| 05:55-09:00 | ✅ Arrive Haneda + Transfer to hotel | 3,000¥ |
+| 09:00-12:00 | ✅ Hotel check-in + Rest | 2,000¥ |
+| 12:00-17:00 | ✅ Asakusa Temple + Shopping | Free |
+| 17:00-18:30 | ✅ Akihabara Arcade | 3,000¥ |
+| 18:30-20:00 | ✅ Shogiji Temple (1000 lanterns) | Free |
+| 20:00-22:00 | ✅ Tanabata Festival | 2,500¥ |
+| 22:00-23:30 | 🤼 Sumo Tournament (optional) | 2,500¥ |
 
-### 🍄 **JOUR 5 | Samedi 11 juillet - UNIVERSAL STUDIOS SUPER MARIO WORLD (J2) ⭐**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-17:30** | 🎢 **Universal Studios Japan - Jour 2** | Revisiter rides favorites + shopping | Inclus pass |
-| **12:00-13:30** | 🍜 Lunch dans le parc | Mario thématisé | 2500¥ |
-| **17:30-20:00** | 🚕 Retour hôtel + dîner | Namba | 2500¥ |
-
-**Total jour 5** : ~5000¥ | **2-Day Pass Adult x2 - CONFIRMÉ** ✅
+**Daily Cost:** 8,500-11,000¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)  
+**💡 Tip:** Sumo ticket still available if interested tonight
 
 ---
 
-### 🏯 **JOUR 6 | Dimanche 12 juillet - OSAKA CULTURE (optimisé)**
+### 🎮 DAY 2 | Wednesday, July 8 - SHIBUYA SHOPPING & RELAXATION
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-11:00** | 🏯 Château d'Osaka | Visite | 600¥ |
-| **11:15-13:00** | 🍜 Déjeuner Dotonbori | Local | 2500¥ |
-| **13:00-17:00** | 🎮 Pokémon Center + Arcades | Dotonbori (Namco, Mario Kart) | 7000¥ |
-| **17:00-19:00** | 🏨 Repos climatisé | (Chaleur 14h-17h trop intense) | 1000¥ |
-| **19:00-21:00** | 🍜 Dîner Dotonbori | Repas local | 2000¥ |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-11:00 | Shibuya Sky (360° view, 46th floor) | 3,000¥ |
+| 11:15-13:00 | Pokemon Center Shibuya | 5,000¥ |
+| 13:00-14:30 | Lunch in Shibuya | 2,500¥ |
+| 14:30-17:00 | AC Rest at hotel (beat the heat!) | 1,500¥ |
+| 17:00-18:30 | Chopstick Craft Workshop (Ginza) | 4,000¥ |
+| 19:00-21:30 | Dinner + Rest at hotel | 2,000¥ |
 
-**Total** : ~13100¥ | **Optimisation** : Lunch entre château et shopping, évite gap 11h-12h, repos intégré PM
-
----
-
-### 🏯 **JOUR 7 | Lundi 13 juillet - TRANSFERT OSAKA → KYOTO**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-10:45** | 🚄 Transfert train | Osaka → Kyoto | 2300¥ |
-| **11:00-16:00** | 🏨 Installation hôtel + repos climatisé | Kawaramachi | 1500¥ |
-| **16:30-20:30** | 🌅 Promenade + repas | Kawaramachi (gratuit soir) | 2500¥ |
-
-**Total** : ~10300¥ | **Hôtel** : Kawaramachi, 3500-5000¥/nuit | ⚠️ Jour transition - repos avant intensité
+**Daily Cost:** ~16,000¥ | **Hotel:** Same (3,500-5,500¥/night)  
+**💡 Tip:** All activities in same area = easy walking
 
 ---
 
-### ⛩️ **JOUR 8 | Mardi 14 juillet - REPOS & TEMPLE KYOTO**
+### 🚄 DAY 3 | Thursday, July 9 - TRAVEL TO OSAKA
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-11:30** | ⛩️ Ginkaku-ji (Pavillon d'Argent) | Temple zen + jardin tranquille | Gratuit |
-| **12:00-16:00** | 🍜 Déjeuner + repos climatisé complet | Hôtel | 2500¥ |
-| **16:30-20:00** | 🌅 Promenade Kawaramachi + dîner | Repos avant jours intensifs | 2500¥ |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-11:00 | Breakfast + Hotel rest | 1,500¥ |
+| 11:00-13:45 | Lunch at Tokyo Station | 1,500¥ |
+| 14:00-17:00 | Shinkansen to Osaka (2h 45min) | 15,320¥ |
+| 17:30-20:30 | Transfer to hotel + Explore | 1,500¥ |
 
-**Total** : ~5000¥ | **Conseil** : Jour transition, repos avant intensité (jours 9-12 chargés)
-
----
-
-### 🏛️ **JOUR 9 | Mercredi 15 juillet - KYOTO ART + NINTENDO MUSEUM SOIR ⭐ (optimisé)**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-10:30** | 📿 Atelier Hanko | Nishiki Market | 4000¥ |
-| **11:00-13:00** | 🎮 Pokémon Center Kyoto | Shopping | 5000¥ |
-| **13:00-16:00** | 🍜 Déjeuner + repos climatisé | Hôtel | 2500¥ |
-| **16:00-16:45** | 🚕 Transfert vers Nintendo Museum (45 min buffer) | Higashiyama-ku | 1500¥ |
-| **17:00-20:00** | 🎮 **Nintendo Museum** | Entrée 17h-17h30 | **3000¥** |
-| **20:15-21:30** | 🍜 Dîner rapide + retour hôtel | Kawaramachi | 2000¥ |
-
-**Total** : ~18000¥ | **Réservation confirmée** : https://www.nintendo-museum.jp/en/ | **Optimisation** : Départ 16h (45 min buffer pour transfer), repos réduit de 30 min
+**Daily Cost:** ~20,320¥ | **Hotel:** Namba (3,000-4,500¥/night)  
+**💡 Tip:** Relax today - recover from Day 1's action!
 
 ---
 
-### ⛩️ **JOUR 10 | Jeudi 16 juillet - SAMURAI WALK MATIN + FUSHIMI INARI SOIR**
+### 🍄 DAY 4 | Friday, July 10 - UNIVERSAL STUDIOS SUPER MARIO (Day 1)
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-12:00** | ⚔️ **Samurai Walk** | Techniques + costume (Nishiki/Gion) | 4000¥ |
-| **12:00-16:00** | 🍜 Déjeuner + repos climatisé | Hôtel | 2500¥ |
-| **17:00-21:00** | ⛩️ Fushimi Inari (10 000 torii) | Train JR, promenade soir (gratuit) | 3000¥ |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-17:30 | 🎢 Universal Studios - Mario Kart, Yoshi, Donkey Kong | Included |
+| 17:00-18:30 | Train to park from hotel | 4,000¥ |
+| 18:30-21:00 | Dinner in park + Rest | 5,000¥ |
 
-**Total** : ~9500¥ | **Conseil** : Sport AM, repos 14-17h, walk relaxe PM
-
----
-
-### ♨️ **JOUR 11 | Vendredi 17 juillet - REPOS & DÉTENTE KYOTO (optimisé)**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-12:00** | 🚶 Arashiyama complet | Bamboo Grove + promenade temple | Gratuit |
-| **12:15-14:00** | 🍜 Lunch Arashiyama | Local tranquille | 2500¥ |
-| **14:00-17:00** | 🏨 Repos hôtel climatisé | Récupération avant ninja training | 1000¥ |
-| **17:00-19:30** | ♨️ Onsen traditionnel | Bain thermal local | 1500¥ |
-| **19:45-21:00** | 🍜 Dîner relaxe | Kawaramachi | 2000¥ |
-
-**Total** : ~7000¥ | **Optimisation** : Arashiyama 3h (plus enrichissant), moins de gaps morts
+**Daily Cost:** ~9,000¥ | **✅ Reservation Confirmed**  
+**💡 Tip:** Arrive early for shortest lines!
 
 ---
 
-### 🥋 **JOUR 12 | Samedi 18 juillet - NINJA TRAINING MATIN + MANGA SOIR**
+### 🍄 DAY 5 | Saturday, July 11 - UNIVERSAL STUDIOS SUPER MARIO (Day 2)
 
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-12:00** | 🥋 **Ninja Training** | Shuriken + costume (Nishiki/Gion) | 4000¥ |
-| **12:00-14:00** | 🍜 Lunch + repos | Kyoto Centre | 2500¥ |
-| **14:00-16:30** | 📚 Kyoto Manga Museum | 300 000 volumes, climatisé | 900¥ |
-| **16:30-21:30** | 🏨 Repos hôtel + ⛩️ promenade Gion | Gratuit soir | 2500¥ |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-17:30 | 🎢 Universal Studios - Revisit favorites + Shopping | Included |
+| 12:00-13:30 | Lunch (Mario themed) | 2,500¥ |
+| 17:30-20:00 | Return to hotel + Dinner | 2,500¥ |
 
-**Total** : ~10400¥ | **Sport AM, musée/repos PM, walk gratuit soir**
-
----
-
-### 🚄 **JOUR 13 | Dimanche 19 juillet - RETOUR TOKYO + REPOS**
-
-| Heure | Activité | Détails | Coût |
-|-------|----------|---------|------|
-| **09:00-11:45** | 🚄 Shinkansen | Kyoto → Tokyo (2h45) | 13320¥ |
-| **12:00-16:00** | 🏨 Installation + repos climatisé | Shinjuku/Shibuya | 1500¥ |
-| **16:30-21:00** | ⛩️ Meiji Jingu + repas | Forêt sacrée (gratuit) | 3000¥ |
-
-**Total** : ~17820¥ | **Repos avant départ final**
+**Daily Cost:** ~5,000¥ | **✅ 2-Day Pass Confirmed**
 
 ---
 
-### ✈️ **JOUR 14 | Lundi 20 juillet - DÉPART (optimisé)**
+### 🏯 DAY 6 | Sunday, July 12 - OSAKA CULTURE & POKEMON
 
-| Heure | Activité | Détails | Notes |
-|-------|----------|---------|-------|
-| **06:00-07:00** | 🏨 Petit-déjeuner hôtel | Avant départ | 1000¥ |
-| **07:00-08:00** | 🚕 Transfert Haneda | N'EX Express | 3000¥ |
-| **08:00-11:30** | 🎁 Enregistrement + shopping duty-free | Haneda terminal | 2000¥ |
-| **11:45-23:15** | ✈️ **AF 0287** Tokyo → Paris | Vol AF287 | -9h décalage |
-| **19:30** | 🏠 Arrivée CDG | Retour Paris | Même jour |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-11:00 | Osaka Castle | 600¥ |
+| 11:15-13:00 | Lunch (Dotonbori area) | 2,500¥ |
+| 13:00-17:00 | Pokemon Center + Arcades (Dotonbori) | 7,000¥ |
+| 17:00-19:00 | AC Rest at hotel (midday heat!) | 1,000¥ |
+| 19:00-21:00 | Dinner (Dotonbori) | 2,000¥ |
 
-**Total** : ~6000¥ | **Optimisation** : Départ 6h, arrive Haneda 8h (3h30 avant vol), shopping tranquille
-
----
-
-## 🌡️ CONSEILS CHALEUR & SANTÉ (Juillet = 30-35°C + forte humidité!)
-
-### ⚠️ Prise de précautions essentielles
-- **Hydratation constante** : Boire 2-3L d'eau/jour minimum (+ boissons isotoniques Pocari Sweat)
-- **Vêtements** : T-shirts légers, longs pantalons coton, chapeau/casquette
-- **Crème solaire** : SPF50+ indispensable (réappliquer toutes les 2h)
-- **Horaires** : Activités sportives **MATIN (9h-12h)**, repos **14h-16h**, promenades **SOIR (17h-20h)**
-- **Climatisation** : Passer 1-2h par jour dans lieux climatisés (musées, malls, cafés)
-
-### 🏥 Petite pharmacie recommandée
-- Électrolytes (Pocari, Aquarius)
-- Antihistaminique (piqures moustiques)
-- Doliprane (maux de tête chaleur)
-- Gaze/pansements (ampoules)
-
-### 💡 Bons plans
-- Vending machines partout (eau 100¥, boissons 150¥) 
-- Konbini ouvert 24/24 (FamilyMart, 7-Eleven)
-- Portez gourde réutilisable (restaurants remplissent gratuitement)
-- Prendre pauses plus fréquentes que prévu
+**Daily Cost:** ~13,100¥
 
 ---
 
-## 💳 PASSES & RÉDUCTIONS
+### 🚄 DAY 7 | Monday, July 13 - TRANSFER TO KYOTO
 
-### 🚄 **JR Pass 7 jours (~29 650¥)**
-- **Couvre** : Shinkansen Tokyo↔Osaka, trains locaux
-- **Rentabilité** : Jours 3-9 (jours Shinkansen : 13320¥ × 2 = 26640¥)
-- ✅ **RECOMMANDÉ** - Économise ~3000¥ + liberté
+| Time | What | Cost |
+|------|------|------|
+| 09:00-10:45 | Train: Osaka → Kyoto | 2,300¥ |
+| 11:00-16:00 | Hotel check-in + Rest | 1,500¥ |
+| 16:30-20:30 | Walk around + Dinner | 2,500¥ |
 
-### 🎫 **Pass Parcs USJ**
-- 2 jours consécutifs = réduction vs billet simple
-- **À vérifier** : https://www.usj.co.jp/
-
-### 🎌 **Autres passes**
-- Tokyo Metro Pass (1/2/3 jours) : trajets illimités
-- Kyoto Bus/Train pass : transports limités (moins utile ici)
+**Daily Cost:** ~10,300¥ | **Hotel:** Kawaramachi (3,500-5,000¥/night)  
+**💡 Tip:** Transition day = easy pace before busy days ahead
 
 ---
 
-## 💰 BUDGET TOTAL
+### ⛩️ DAY 8 | Tuesday, July 14 - TEMPLES & RELAXATION
 
-| Catégorie | Montant |
-|-----------|---------|
-| 🏨 Hôtels (13 nuits) | **~45 000-55 000¥** |
-| 🚄 Transports (JR Pass + locaux) | ~32 000¥ |
-| 🎮 Attractions & parcs | **~64 000¥** |
-| 🍽️ Repas (~2500¥/jour) | ~35 000¥ |
-| 🛍️ Shopping + détente | **~12 000¥** |
-| **TOTAL** | **~188 000-198 000¥ (~1270-1350€)** |
+| Time | What | Cost |
+|------|------|------|
+| 09:00-11:30 | Ginkaku-ji (Silver Pavilion Temple) | Free |
+| 12:00-16:00 | Lunch + AC Rest at hotel | 2,500¥ |
+| 16:30-20:00 | Walk + Dinner | 2,500¥ |
 
-⚠️ **Points importants** :
-- **Juillet = haute saison** : Hôtels 3,5-5,5x plus chers qu'hors-saison
-- **À vérifier** : Tarifs réels sur Booking.com, Agoda, jalan.net
-- **Vols Paris-Tokyo non inclus** (déjà payés)
+**Daily Cost:** ~5,000¥  
+**💡 Tip:** Peaceful temple + rest before next 4 busy days
 
 ---
 
-## ✅ CHECKLIST AVANT DÉPART
+### 🏛️ DAY 9 | Wednesday, July 15 - NINTENDO MUSEUM NIGHT ⭐
 
-**Réservations confirmées** ✅
-- [x] Nintendo Museum : 15 juillet 17h-20h
-- [x] Universal Studios 2-Day Pass : 10-11 juillet
+| Time | What | Cost |
+|------|------|------|
+| 09:00-10:30 | Hanko (Seal) Craft Workshop | 4,000¥ |
+| 11:00-13:00 | Pokemon Center Kyoto | 5,000¥ |
+| 13:00-16:00 | Lunch + Rest at hotel | 2,500¥ |
+| 16:00-16:45 | Transfer to Nintendo Museum | 1,500¥ |
+| 17:00-20:00 | 🎮 **NINTENDO MUSEUM** ✅ CONFIRMED | 3,000¥ |
+| 20:15-21:30 | Quick dinner + Return to hotel | 2,000¥ |
 
-**À faire MAINTENANT**
-- [ ] Réserver hôtels : Tokyo (2 nuits), Osaka (3 nuits), Kyoto (6 nuits), Tokyo (1 nuit)
-- [ ] Décider JR Pass 7j (RECOMMANDÉ ~29650¥ - couvre Shinkansen + transports locaux)
-- [ ] Acheter gourde réutilisable + crème solaire SPF50+ (indispensable juillet)
-- [ ] Imprimer confirmations : Nintendo Museum, USJ, réservations hôtels
-
-**À l'aéroport Haneda (arrivée)**
-- [ ] SIM Japan / Pocket WiFi (précommander en ligne = meilleur prix)
-- [ ] Acheter Pocari Sweat / boissons isotoniques
-- [ ] Cartes IC Suica/Pasmo pour transports
-
-**Avant le vol**
-- [ ] Télécharger Google Maps hors-ligne (Tokyo, Osaka, Kyoto)
-- [ ] Télécharger Hyperdia/Jorudan (horaires trains)
-- [ ] Copie numérique documents (passeport, réservations)
+**Daily Cost:** ~18,000¥ | **✅ Reservation Confirmed**
 
 ---
 
-**Bon voyage ! 🗾🎮**
+### ⚔️ DAY 10 | Thursday, July 16 - SAMURAI WALK & TEMPLE GATES
+
+| Time | What | Cost |
+|------|------|------|
+| 09:00-12:00 | Samurai Walk (techniques + costume) | 4,000¥ |
+| 12:00-16:00 | Lunch + AC Rest | 2,500¥ |
+| 17:00-21:00 | Fushimi Inari (10,000 temple gates) | 3,000¥ |
+
+**Daily Cost:** ~9,500¥  
+**💡 Tip:** Physical activity in morning, relaxation in afternoon
+
+---
+
+### 🌿 DAY 11 | Friday, July 17 - BAMBOO GROVE & ONSEN
+
+| Time | What | Cost |
+|------|------|------|
+| 09:00-12:00 | Arashiyama Bamboo Grove + Temple Walk | Free |
+| 12:15-14:00 | Lunch (quiet area) | 2,500¥ |
+| 14:00-17:00 | Rest at hotel | 1,000¥ |
+| 17:00-19:30 | Traditional Onsen (hot spring bath) | 1,500¥ |
+| 19:45-21:00 | Relaxed Dinner | 2,000¥ |
+
+**Daily Cost:** ~7,000¥  
+**💡 Tip:** Relaxation day before final action day
+
+---
+
+### 🥋 DAY 12 | Saturday, July 18 - NINJA TRAINING & MANGA MUSEUM
+
+| Time | What | Cost |
+|------|------|------|
+| 09:00-12:00 | Ninja Training (shuriken + costume) | 4,000¥ |
+| 12:00-14:00 | Lunch + Rest | 2,500¥ |
+| 14:00-16:30 | Kyoto Manga Museum (300,000 volumes) | 900¥ |
+| 16:30-21:30 | Hotel rest + Gion walk + Dinner | 2,500¥ |
+
+**Daily Cost:** ~10,400¥
+
+---
+
+### 🚄 DAY 13 | Sunday, July 19 - RETURN TO TOKYO
+
+| Time | What | Cost |
+|------|------|------|
+| 09:00-11:45 | Shinkansen: Kyoto → Tokyo (2h 45min) | 13,320¥ |
+| 12:00-16:00 | Hotel check-in + Rest | 1,500¥ |
+| 16:30-21:00 | Meiji Shrine (sacred forest) + Dinner | 3,000¥ |
+
+**Daily Cost:** ~17,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)
+
+---
+
+### ✈️ DAY 14 | Monday, July 20 - DEPARTURE
+
+| Time | What | Cost |
+|------|------|------|
+| 06:00-07:00 | Hotel breakfast | 1,000¥ |
+| 07:00-08:00 | Transfer to Haneda | 3,000¥ |
+| 08:00-11:30 | Check-in + Duty-free shopping | 2,000¥ |
+| 11:45-23:15 | ✈️ Flight AF287 (Tokyo → Paris) | - |
+| 19:30 | Arrive Paris CDG (same day) | - |
+
+**Daily Cost:** ~6,000¥
+
+---
+
+## 💰 TOTAL BUDGET BREAKDOWN
+
+| Category | Cost |
+|----------|------|
+| 🏨 Hotels (13 nights) | 45,000-55,000¥ |
+| 🚄 Trains & Transport | 32,000¥ |
+| 🎮 Attractions & Parks | 64,000¥ |
+| 🍽️ Food (~2,500¥/day) | 35,000¥ |
+| 🛍️ Shopping & Extras | 12,000¥ |
+| **TOTAL** | **~188,000-198,000¥** |
+| **= ~1,270-1,350€** | |
+
+⚠️ **Note:** This does NOT include international flights (already paid)
+
+---
+
+## 🌡️ HEALTH & COMFORT (July = Hot & Humid!)
+
+### Essential Precautions
+- 💧 **Drink 2-3 liters of water daily** + electrolyte drinks (Pocari Sweat)
+- 👕 **Light clothes:** T-shirts, cotton pants, hat/cap
+- ☀️ **Sunscreen SPF50+** (reapply every 2 hours)
+- ⏰ **Activity timing:**
+  - Sports & walking: 9 AM - 12 PM
+  - Rest: 2 PM - 5 PM (heat peak)
+  - Evening walks: 5 PM - 9 PM
+- ❄️ **AC breaks:** Spend 1-2 hours daily in air-conditioned places (museums, malls, cafes)
+
+### Small First Aid Kit
+- Electrolyte drinks (Pocari, Aquarius)
+- Antihistamine cream (mosquito bites)
+- Paracetamol (heat headaches)
+- Bandages (blisters)
+
+### Money-Saving Tips
+- Vending machines everywhere (water 100¥, drinks 150¥)
+- Convenience stores 24/7 (FamilyMart, 7-Eleven)
+- Bring reusable water bottle (restaurants refill free)
+- Take breaks more often than planned
+
+---
+
+## 🎫 PASSES & DISCOUNTS
+
+### 🚄 JR Pass 7-Day (~29,650¥) - RECOMMENDED
+- Covers: Shinkansen + local trains
+- Saves: ~3,000¥ vs individual tickets
+- Best for: Days 3-9
+
+### 🎮 USJ 2-Day Pass
+- ✅ Already booked!
+- Includes: All rides + park entry
+
+### Other Options
+- Tokyo Metro Pass (1/2/3 days) - if staying longer in Tokyo
+- Kyoto Bus Pass - not needed for this itinerary
+
+---
+
+## ✅ BEFORE YOU GO CHECKLIST
+
+### Must Book NOW
+- [ ] Hotels: Tokyo (2 nights) + Osaka (3 nights) + Kyoto (6 nights) + Tokyo (1 night)
+- [ ] Decide: Buy JR Pass? (Recommended)
+
+### Must Buy
+- [ ] SPF50+ Sunscreen (big bottle!)
+- [ ] Reusable water bottle
+- [ ] Comfortable walking shoes (for 15,000+ steps/day)
+
+### At Airport (Haneda Arrival)
+- [ ] Japan SIM card or Pocket WiFi
+- [ ] Pocari Sweat & electrolyte drinks
+- [ ] Suica/Pasmo travel cards
+
+### Before Flight
+- [ ] Download offline Google Maps (Tokyo, Osaka, Kyoto)
+- [ ] Download Hyperdia app (train schedules)
+- [ ] Digital copies: Passport, confirmations, insurance
+
+---
+
+## 📞 Important Reservations
+
+| | |
+|---|---|
+| **Nintendo Museum** | Confirmed - Day 9, 5:00-8:00 PM |
+| **Universal Studios** | Confirmed - 2-Day Pass (Days 4-5) |
+| **Hotels** | ⚠️ NOT YET BOOKED - Do this NOW! |
+
+**Booking Links:**
+- 🏨 Hotels: Booking.com, Agoda, jalan.net
+- 🎮 Nintendo Museum: https://www.nintendo-museum.jp/en/
+- 🎢 USJ: https://www.usj.co.jp/
+
+---
+
+## 💡 Pro Tips
+
+✨ **Best photo spots:**
+- Shibuya Crossing (Shibuya Sky view)
+- Ginkaku-ji Temple (gardens)
+- Fushimi Inari Temple (10,000 gates)
+- Arashiyama Bamboo Grove
+
+🎮 **Pokemon Centers to visit:**
+- Shibuya (Day 2)
+- Osaka (Day 6)
+- Kyoto (Day 9)
+- Plus Akihabara on Day 1 ✅
+
+🍽️ **Must-try foods:**
+- Ramen (Shibuya, Osaka, Kyoto)
+- Okonomiyaki (Osaka specialty)
+- Sushi near station
+- Convenience store onigiri (cheap, good!)
+
+---
+
+**Have an amazing trip! 🗾🎮✨**
