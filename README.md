@@ -6,16 +6,19 @@
 
 ## 📅 PROGRAMME JOUR PAR JOUR
 
-### 🛬 **JOUR 1 | Mardi 7 juillet - ARRIVÉE + REPOS (+ SUMO OPTIONNEL)**
+### 🛬 **JOUR 1 | Mardi 7 juillet - ARRIVÉE + ACTIVITÉS TOKYO**
 
 | Heure | Activité | Détails | Coût |
 |-------|----------|---------|------|
-| **05:55-09:00** | ✈️ Arrivée Haneda + transfert hôtel | N'EX Express | 3000¥ |
-| **09:00-12:00** | 🏨 Installation hôtel + repos après vol | Shinjuku/Shibuya | 2000¥ |
-| **12:00-14:30** | 🤼 **Tournoi Sumo** Arashio beya (optionnel) | Kuramae, Tokyo | 2500¥ |
-| **14:30-21:00** | 🍜 Repas + repos hôtel | Shinjuku/Shibuya | 3500¥ |
+| **05:55-09:00** | ✅ ✈️ Arrivée Haneda + transfert hôtel | N'EX Express | 3000¥ |
+| **09:00-12:00** | ✅ 🏨 Installation hôtel + repos après vol | Shinjuku/Shibuya | 2000¥ |
+| **12:00-17:00** | ✅ ⛩️ Asakusa Temple + Nakamise | Tokyo | Gratuit |
+| **17:00-18:30** | ✅ 🕹️ Akihabara Arcade | Gaming | 3000¥ |
+| **18:30-20:00** | ✅ ⛩️ Shogiji Temple (1000 lanternes) | Tokyo | Gratuit |
+| **20:00-22:00** | ✅ ✨ Fête Tanabata | Omoide Yokocho (Shinjuku) | 2500¥ |
+| **22:00-23:30** | 🤼 **Tournoi Sumo** Arashio beya (optionnel) | Kuramae, Tokyo | 2500¥ |
 
-**Total jour 1** : ~11000¥ (avec sumo) ou ~5500¥ (sans) | **Hôtel** : 3500-5500¥/nuit | ⚠️ Sumo 14h30 possible sinon reporter jour 2 PM
+**Total jour 1** : ~11000¥ (avec sumo) ou ~8500¥ (sans sumo) | **Hôtel** : 3500-5500¥/nuit | ✅ **6 activités complétées !**
 
 ---
 
@@ -27,24 +30,23 @@
 | **11:15-13:00** | 🎮 Pokémon Center Shibuya | Shibuya 109 Building | 5000¥ |
 | **13:00-14:30** | 🍜 Déjeuner Shibuya | Local | 2500¥ |
 | **14:30-17:00** | 🏨 Repos climatisé hôtel (chaleur) | Shinjuku/Shibuya | 1500¥ |
-| **17:00-18:30** | 🥢 Atelier Baguettes | Ginza (ou reporter jour 3 AM) | 4000¥ |
-| **19:00-21:30** | ✨ Fête Tanabata | Omoide Yokocho (Shinjuku) | 2500¥ |
+| **17:00-18:30** | 🥢 Atelier Baguettes | Ginza | 4000¥ |
+| **19:00-21:30** | 🏨 Repos + dîner hôtel | Shinjuku/Shibuya | 2000¥ |
 
-**Total** : ~18500¥ | **Optimisation** : Groupé Shibuya AM (même quartier), repos PM, Tanabata soir proche hôtel | **Alternative** : Atelier baguettes jour 3 8h-9h avant Asakusa
+**Total** : ~16000¥ | **Note** : Tanabata complété jour 1 ✅ | **Optimisation** : Groupé Shibuya AM (même quartier), repos PM
 
 ---
 
-### ⛩️ **JOUR 3 | Jeudi 9 juillet - ASAKUSA + DÉPART OSAKA (horaires optimisés)**
+### ⛩️ **JOUR 3 | Jeudi 9 juillet - DÉPART TOKYO → OSAKA (repos/récupération)**
 
 | Heure | Activité | Détails | Coût |
 |-------|----------|---------|------|
-| **09:00-10:30** | ⛩️ Asakusa Temple + Nakamise | Tokyo | Gratuit |
-| **11:00-12:30** | 🕹️ Akihabara Arcade | Gaming | 3000¥ |
-| **12:30-13:45** | 🍜 Lunch à gare Tokyo | Bento/ramen rapide | 1500¥ |
+| **09:00-11:00** | 🏨 Petit-déjeuner + repos hôtel | Tokyo | 1500¥ |
+| **11:00-13:45** | 🍜 Lunch à gare Tokyo | Bento/ramen rapide | 1500¥ |
 | **14:00-17:00** | 🚄 Shinkansen Tokyo → Osaka | 2h45, départ 14h | 15320¥ |
 | **17:30-20:30** | 🚕 Transfert hôtel + Umeda Sky | Osaka | 1500¥ |
 
-**Total** : ~21320¥ | **Optimisation** : Lunch 1h15 à gare (moins stressant), Shinkansen 14h au lieu de 13h | **Hôtel** : Namba, 3000-4500¥/nuit
+**Total** : ~20320¥ | **Note** : Asakusa & Akihabara complétés jour 1 ✅ | **Optimisation** : Repos supplémentaire matin (récupération après jour 1 intensif), Shinkansen 14h | **Hôtel** : Namba, 3000-4500¥/nuit
 
 ---
 
