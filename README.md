@@ -15,35 +15,39 @@
 
 ## ✅ STATUS AT A GLANCE
 
-### 🟢 Completed (11/14 days to go!)
+### 🟢 COMPLETED ✅
 
-**Day 1 - ✅ DONE**
-- ✅ Tanabata Festival (Omoide Yokocho)
-- ✅ Asakusa Temple + Shopping
-- ✅ Akihabara Arcade
-- ✅ Shogiji Temple (1000 lanterns)
+**Reservations & Bookings**
+- ✅ Universal Studios (Days 4-5) - 2-Day Pass confirmed
+- ✅ Nintendo Museum (Day 9, 5:00-8:00 PM) - Confirmed
+- ✅ JR Pass 7-day (~29,650¥) - BOOKED
+- ✅ Hotels (All 4 cities) - BOOKED
+- ✅ Sunscreen SPF50+ - BOUGHT
+- ✅ Water bottle - BOUGHT
 
-**Day 2 - 🟡 83% DONE (5/6 activities)**
-- ✅ Shibuya Sky
-- ✅ Pokemon Center Shibuya  
-- ✅ Lunch & Rest
-- ✅ Dinner & Rest
-- ⏳ **PENDING:** Chopstick Craft Workshop
+**Days Completed**
+- **Day 1:** ✅ 6/6 activities DONE
+  - Tanabata Festival, Asakusa Temple, Akihabara Arcade, Shogiji Temple
+- **Day 2:** ✅ 5/6 activities DONE
+  - Shibuya Sky, Pokemon Center, Lunch, AC Rest, Dinner
 
-### 🔒 Confirmed Reservations
+### 📋 TO DO (Remaining Activities)
 
-| | |
-|---|---|
-| **Universal Studios** | ✅ Days 4-5 (2-Day Pass confirmed) |
-| **Nintendo Museum** | ✅ Day 9, 5:00-8:00 PM |
+**Day 3-14:** All ready to go! ⏳
 
-### ⚠️ URGENT - Must Do Before Trip
+---
 
-| Priority | Task | Status |
-|----------|------|--------|
-| 🔴 HIGH | Book hotels (Tokyo, Osaka, Kyoto) | ❌ NOT DONE |
-| 🟡 MEDIUM | Decide on JR Pass (~29,650¥ - recommended) | ⏳ PENDING |
-| 🟡 MEDIUM | Buy sunscreen SPF50+ & water bottle | ⏳ PENDING |
+## 🚫 OPTIONAL / CAN SKIP (If You Want)
+
+Activities you can skip without affecting the trip:
+
+| Day | Activity | Reason |
+|-----|----------|--------|
+| 1 | Sumo Tournament | Already had intense Day 1 |
+| 13 | Broquante (antique market) | Fun but optional - can skip if tired from travel |
+| Various | Walks/explorations | Can do any time or skip |
+
+**💡 Tip:** Keep this list handy if you get tired or the weather is too hot!
 
 ---
 
@@ -84,18 +88,20 @@
 
 ---
 
-### 🚄 DAY 3 | Thursday, July 9 - TRAVEL TO OSAKA
+### 🚄 DAY 3 | Thursday, July 9 - CHOPSTICK WORKSHOP + DEPART OSAKA
 
 **Status: ⏳ UPCOMING**
 
 | Time | Activity | Cost |
 |------|----------|------|
-| 09:00-11:00 | Breakfast + Hotel rest | 1,500¥ |
-| 11:00-13:45 | Lunch at Tokyo Station | 1,500¥ |
+| 08:00-09:00 | Breakfast + Hotel checkout | 1,500¥ |
+| 09:00-10:30 | 🥢 Chopstick Craft Workshop (Ginza) | 4,000¥ |
+| 10:30-13:45 | Lunch at Tokyo Station | 1,500¥ |
 | 14:00-17:00 | Shinkansen to Osaka (2h 45min) | 15,320¥ |
 | 17:30-20:30 | Transfer to hotel + Explore | 1,500¥ |
 
-**Daily Cost:** ~20,320¥ | **Hotel:** Namba (3,000-4,500¥/night)
+**Daily Cost:** ~24,320¥ | **Hotel:** Namba (3,000-4,500¥/night)  
+**Note:** Moved Chopstick Workshop from Day 2 to Day 3 morning
 
 ---
 
@@ -233,17 +239,19 @@
 
 ---
 
-### 🚄 DAY 13 | Sunday, July 19 - RETURN TO TOKYO
+### 🚄 DAY 13 | Sunday, July 19 - RETURN TO TOKYO + BROQUANTE
 
 **Status: ⏳ UPCOMING**
 
 | Time | Activity | Cost |
 |------|----------|------|
 | 09:00-11:45 | Shinkansen: Kyoto → Tokyo (2h 45min) | 13,320¥ |
-| 12:00-16:00 | Hotel check-in + Rest | 1,500¥ |
-| 16:30-21:00 | Meiji Shrine (sacred forest) + Dinner | 3,000¥ |
+| 12:00-14:00 | Hotel check-in + Rest | 1,500¥ |
+| 14:00-18:00 | 🏪 Broquante (Antique/Flea Market) | 3,000¥ |
+| 18:00-21:00 | Dinner + Rest | 2,000¥ |
 
-**Daily Cost:** ~17,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)
+**Daily Cost:** ~19,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)  
+**Broquante:** Tokyo's famous antique and flea market!
 
 ---
 
@@ -326,16 +334,14 @@
 
 ## ✅ BEFORE YOU GO - CHECKLIST
 
-### 🔴 HIGH PRIORITY - DO NOW!
-- [ ] **Book hotels** (Tokyo 2nt + Osaka 3nt + Kyoto 6nt + Tokyo 1nt)
-- [ ] **JR Pass decision** (Recommended ~29,650¥)
+### ✅ DONE!
+- [x] **Hotels** (Tokyo 2nt + Osaka 3nt + Kyoto 6nt + Tokyo 1nt) ✅ BOOKED
+- [x] **JR Pass 7-day** (~29,650¥) ✅ BOOKED
+- [x] SPF50+ Sunscreen (big bottle!) ✅ BOUGHT
+- [x] Reusable water bottle ✅ BOUGHT
+- [x] Comfortable walking shoes ✅ HAVE
 
-### 🟡 MEDIUM PRIORITY - This Week
-- [ ] SPF50+ Sunscreen (big bottle!)
-- [ ] Reusable water bottle
-- [ ] Comfortable walking shoes
-
-### 🟢 BEFORE FLIGHT
+### 🟢 BEFORE FLIGHT - TODO
 - [ ] Japan SIM card or Pocket WiFi
 - [ ] Pocari Sweat & electrolyte drinks
 - [ ] Suica/Pasmo travel cards
