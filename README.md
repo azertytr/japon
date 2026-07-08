@@ -43,9 +43,9 @@ Activities you can skip without affecting the trip:
 
 | Day | Activity | Reason |
 |-----|----------|--------|
-| 2 | Chopstick Craft Workshop | Not essential - just for fun |
 | 1 | Sumo Tournament | Already had intense Day 1 |
-| 7 | Various walks/explorations | Can do any time or skip |
+| 13 | Broquante (antique market) | Fun but optional - can skip if tired from travel |
+| Various | Walks/explorations | Can do any time or skip |
 
 **💡 Tip:** Keep this list handy if you get tired or the weather is too hot!
 
@@ -88,18 +88,20 @@ Activities you can skip without affecting the trip:
 
 ---
 
-### 🚄 DAY 3 | Thursday, July 9 - TRAVEL TO OSAKA
+### 🚄 DAY 3 | Thursday, July 9 - CHOPSTICK WORKSHOP + DEPART OSAKA
 
 **Status: ⏳ UPCOMING**
 
 | Time | Activity | Cost |
 |------|----------|------|
-| 09:00-11:00 | Breakfast + Hotel rest | 1,500¥ |
-| 11:00-13:45 | Lunch at Tokyo Station | 1,500¥ |
+| 08:00-09:00 | Breakfast + Hotel checkout | 1,500¥ |
+| 09:00-10:30 | 🥢 Chopstick Craft Workshop (Ginza) | 4,000¥ |
+| 10:30-13:45 | Lunch at Tokyo Station | 1,500¥ |
 | 14:00-17:00 | Shinkansen to Osaka (2h 45min) | 15,320¥ |
 | 17:30-20:30 | Transfer to hotel + Explore | 1,500¥ |
 
-**Daily Cost:** ~20,320¥ | **Hotel:** Namba (3,000-4,500¥/night)
+**Daily Cost:** ~24,320¥ | **Hotel:** Namba (3,000-4,500¥/night)  
+**Note:** Moved Chopstick Workshop from Day 2 to Day 3 morning
 
 ---
 
@@ -237,17 +239,19 @@ Activities you can skip without affecting the trip:
 
 ---
 
-### 🚄 DAY 13 | Sunday, July 19 - RETURN TO TOKYO
+### 🚄 DAY 13 | Sunday, July 19 - RETURN TO TOKYO + BROQUANTE
 
 **Status: ⏳ UPCOMING**
 
 | Time | Activity | Cost |
 |------|----------|------|
 | 09:00-11:45 | Shinkansen: Kyoto → Tokyo (2h 45min) | 13,320¥ |
-| 12:00-16:00 | Hotel check-in + Rest | 1,500¥ |
-| 16:30-21:00 | Meiji Shrine (sacred forest) + Dinner | 3,000¥ |
+| 12:00-14:00 | Hotel check-in + Rest | 1,500¥ |
+| 14:00-18:00 | 🏪 Broquante (Antique/Flea Market) | 3,000¥ |
+| 18:00-21:00 | Dinner + Rest | 2,000¥ |
 
-**Daily Cost:** ~17,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)
+**Daily Cost:** ~19,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)  
+**Broquante:** Tokyo's famous antique and flea market!
 
 ---
 
