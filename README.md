@@ -15,35 +15,39 @@
 
 ## ✅ STATUS AT A GLANCE
 
-### 🟢 Completed (11/14 days to go!)
+### 🟢 COMPLETED ✅
 
-**Day 1 - ✅ DONE**
-- ✅ Tanabata Festival (Omoide Yokocho)
-- ✅ Asakusa Temple + Shopping
-- ✅ Akihabara Arcade
-- ✅ Shogiji Temple (1000 lanterns)
+**Reservations & Bookings**
+- ✅ Universal Studios (Days 4-5) - 2-Day Pass confirmed
+- ✅ Nintendo Museum (Day 9, 5:00-8:00 PM) - Confirmed
+- ✅ JR Pass 7-day (~29,650¥) - BOOKED
+- ✅ Hotels (All 4 cities) - BOOKED
+- ✅ Sunscreen SPF50+ - BOUGHT
+- ✅ Water bottle - BOUGHT
 
-**Day 2 - 🟡 83% DONE (5/6 activities)**
-- ✅ Shibuya Sky
-- ✅ Pokemon Center Shibuya  
-- ✅ Lunch & Rest
-- ✅ Dinner & Rest
-- ⏳ **PENDING:** Chopstick Craft Workshop
+**Days Completed**
+- **Day 1:** ✅ 6/6 activities DONE
+  - Tanabata Festival, Asakusa Temple, Akihabara Arcade, Shogiji Temple
+- **Day 2:** ✅ 5/6 activities DONE
+  - Shibuya Sky, Pokemon Center, Lunch, AC Rest, Dinner
 
-### 🔒 Confirmed Reservations
+### 📋 TO DO (Remaining Activities)
 
-| | |
-|---|---|
-| **Universal Studios** | ✅ Days 4-5 (2-Day Pass confirmed) |
-| **Nintendo Museum** | ✅ Day 9, 5:00-8:00 PM |
+**Day 3-14:** All ready to go! ⏳
 
-### ⚠️ URGENT - Must Do Before Trip
+---
 
-| Priority | Task | Status |
-|----------|------|--------|
-| 🔴 HIGH | Book hotels (Tokyo, Osaka, Kyoto) | ❌ NOT DONE |
-| 🟡 MEDIUM | Decide on JR Pass (~29,650¥ - recommended) | ⏳ PENDING |
-| 🟡 MEDIUM | Buy sunscreen SPF50+ & water bottle | ⏳ PENDING |
+## 🚫 OPTIONAL / CAN SKIP (If You Want)
+
+Activities you can skip without affecting the trip:
+
+| Day | Activity | Reason |
+|-----|----------|--------|
+| 2 | Chopstick Craft Workshop | Not essential - just for fun |
+| 1 | Sumo Tournament | Already had intense Day 1 |
+| 7 | Various walks/explorations | Can do any time or skip |
+
+**💡 Tip:** Keep this list handy if you get tired or the weather is too hot!
 
 ---
 
@@ -326,16 +330,14 @@
 
 ## ✅ BEFORE YOU GO - CHECKLIST
 
-### 🔴 HIGH PRIORITY - DO NOW!
-- [ ] **Book hotels** (Tokyo 2nt + Osaka 3nt + Kyoto 6nt + Tokyo 1nt)
-- [ ] **JR Pass decision** (Recommended ~29,650¥)
+### ✅ DONE!
+- [x] **Hotels** (Tokyo 2nt + Osaka 3nt + Kyoto 6nt + Tokyo 1nt) ✅ BOOKED
+- [x] **JR Pass 7-day** (~29,650¥) ✅ BOOKED
+- [x] SPF50+ Sunscreen (big bottle!) ✅ BOUGHT
+- [x] Reusable water bottle ✅ BOUGHT
+- [x] Comfortable walking shoes ✅ HAVE
 
-### 🟡 MEDIUM PRIORITY - This Week
-- [ ] SPF50+ Sunscreen (big bottle!)
-- [ ] Reusable water bottle
-- [ ] Comfortable walking shoes
-
-### 🟢 BEFORE FLIGHT
+### 🟢 BEFORE FLIGHT - TODO
 - [ ] Japan SIM card or Pocket WiFi
 - [ ] Pocari Sweat & electrolyte drinks
 - [ ] Suica/Pasmo travel cards
