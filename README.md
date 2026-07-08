@@ -32,8 +32,8 @@
 **Jours Complétés**
 - **Jour 1 :** ✅ 6/6 activités TERMINÉES
   - Festival Tanabata, Temple Asakusa, Arcade Akihabara, Temple Shogiji
-- **Jour 2 :** ✅ 5/6 activités TERMINÉES
-  - Shibuya Sky, Centre Pokémon, Déjeuner, Repos climatisé, Dîner
+- **Jour 2 :** ✅ 3/4 activités TERMINÉES
+  - Shibuya Sky, Centre Pokémon, Déjeuner
 
 ### 📋 À FAIRE (Activités restantes)
 
@@ -84,9 +84,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | 09:00-11:00 | ✅ Shibuya Sky (vue 360°) | Terminé | 3 000¥ |
 | 11:15-13:00 | ✅ Centre Pokémon Shibuya | Terminé | 5 000¥ |
 | 13:00-14:30 | ✅ Déjeuner à Shibuya | Terminé | 2 500¥ |
-| 14:30-17:00 | ✅ Repos climatisé à l'hôtel | Terminé | 1 500¥ |
 | 17:00-18:30 | ⏳ Atelier Baguettes (Ginza) | **EN ATTENTE** | 4 000¥ |
-| 19:00-21:30 | ✅ Dîner + Repos | Terminé | 2 000¥ |
 
 **Coût quotidien :** ~16 000¥ | **Restant :** Atelier Baguettes
 
@@ -117,7 +115,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 |-------|----------|------|
 | 09:00-17:30 | 🎢 Universal Studios - Mario Kart, Yoshi, Donkey Kong | Inclus |
 | 17:00-18:30 | Train vers le parc depuis l'hôtel | 4 000¥ |
-| 18:30-21:00 | Dîner au parc + Repos | 5 000¥ |
 
 **Coût quotidien :** ~9 000¥ | **Hôtel :** Près d'Universal Studios  
 **💡 Arrivez tôt pour les files les plus courtes !**
@@ -146,8 +143,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | 09:00-11:00 | Château d'Osaka | 600¥ |
 | 11:15-13:00 | Déjeuner (quartier Dotonbori) | 2 500¥ |
 | 13:00-17:00 | Centre Pokémon + Arcades (Dotonbori) | 7 000¥ |
-| 17:00-19:00 | Repos climatisé à l'hôtel | 1 000¥ |
-| 19:00-21:00 | Dîner (Dotonbori) | 2 000¥ |
 
 **Coût quotidien :** ~13 100¥ | **Hôtel :** Près d'Universal Studios (dernière nuit avant Kyoto)
 
@@ -174,8 +169,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 09:00-11:30 | Ginkaku-ji (Temple du Pavillon d'Argent) | Gratuit |
-| 12:00-16:00 | Déjeuner + Repos climatisé à l'hôtel | 2 500¥ |
-| 16:30-20:00 | Promenade + Dîner | 2 500¥ |
 
 **Coût quotidien :** ~5 000¥
 
@@ -189,7 +182,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 |-------|----------|------|
 | 09:00-10:30 | Atelier Hanko (Sceau) | 4 000¥ |
 | 11:00-13:00 | Centre Pokémon Kyoto | 5 000¥ |
-| 13:00-16:00 | Déjeuner + Repos climatisé à l'hôtel | 2 500¥ |
 | 16:00-16:45 | Transfert vers le Musée Nintendo | 1 500¥ |
 | 17:00-20:00 | 🎮 **MUSÉE NINTENDO** | 3 000¥ |
 
@@ -219,9 +211,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 |-------|----------|------|
 | 09:00-12:00 | Forêt de Bambou Arashiyama + Promenade temple | Gratuit |
 | 12:15-14:00 | Déjeuner (zone calme) | 2 500¥ |
-| 14:00-17:00 | Repos à l'hôtel | 1 000¥ |
 | 17:00-19:30 | Onsen traditionnel (bain thermal) | 1 500¥ |
-| 19:45-21:00 | Dîner décontracté | 2 000¥ |
 
 **Coût quotidien :** ~7 000¥
 
@@ -234,9 +224,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 09:00-12:00 | Entraînement Ninja (shurikens + costume) | 4 000¥ |
-| 12:00-14:00 | Déjeuner + Repos | 2 500¥ |
 | 14:00-16:30 | Musée Manga Kyoto (300 000 volumes) | 900¥ |
-| 16:30-21:30 | Repos hôtel + Promenade Gion + Dîner | 2 500¥ |
 
 **Coût quotidien :** ~10 400¥
 
@@ -250,8 +238,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 |-------|----------|------|
 | 09:00-11:45 | Shinkansen : Kyoto → Tokyo (2h 45min) | 13 320¥ |
 | 12:00-14:00 | Enregistrement hôtel + Repos | 1 500¥ |
-| 14:00-18:00 | 🏪 Broquante (Marché aux antiquités) | 3 000¥ |
-| 18:00-21:00 | Dîner + Repos | 2 000¥ |
+| 14:00-18:00 | 🏪 Broquante (Marche aux figurines et peluches) | 3 000¥ |
 
 **Coût quotidien :** ~19 820¥ | **Hôtel :** Région Tokyo (Shinjuku/Shibuya, 3 500-5 500¥/nuit)  
 **Broquante :** Célèbre marché aux antiquités et marché aux puces de Tokyo !
