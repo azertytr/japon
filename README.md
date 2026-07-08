@@ -15,11 +15,18 @@
 
 ## ✅ STATUS AT A GLANCE
 
-### ✅ Completed (Day 1 - Wow!)
+### ✅ Completed
+**Day 1 - Wow!**
 - Tanabata Festival (Omoide Yokocho)
 - Asakusa Temple + Shopping
 - Akihabara Arcade
 - Shogiji Temple (1000 lanterns)
+
+**Day 2 - Almost there!**
+- Shibuya Sky
+- Pokemon Center Shibuya
+- Lunch & Rest
+- Dinner & Rest
 
 ### 🔒 Confirmed Reservations
 - ✅ Universal Studios Japan (Days 4-5) - 2-Day Pass
@@ -55,17 +62,19 @@
 
 ### 🎮 DAY 2 | Wednesday, July 8 - SHIBUYA SHOPPING & RELAXATION
 
+**✅ MOSTLY COMPLETED! (except Chopstick Workshop)**
+
 | Time | What | Cost |
 |------|------|------|
-| 09:00-11:00 | Shibuya Sky (360° view, 46th floor) | 3,000¥ |
-| 11:15-13:00 | Pokemon Center Shibuya | 5,000¥ |
-| 13:00-14:30 | Lunch in Shibuya | 2,500¥ |
-| 14:30-17:00 | AC Rest at hotel (beat the heat!) | 1,500¥ |
+| 09:00-11:00 | ✅ Shibuya Sky (360° view, 46th floor) | 3,000¥ |
+| 11:15-13:00 | ✅ Pokemon Center Shibuya | 5,000¥ |
+| 13:00-14:30 | ✅ Lunch in Shibuya | 2,500¥ |
+| 14:30-17:00 | ✅ AC Rest at hotel (beat the heat!) | 1,500¥ |
 | 17:00-18:30 | Chopstick Craft Workshop (Ginza) | 4,000¥ |
-| 19:00-21:30 | Dinner + Rest at hotel | 2,000¥ |
+| 19:00-21:30 | ✅ Dinner + Rest at hotel | 2,000¥ |
 
 **Daily Cost:** ~16,000¥ | **Hotel:** Same (3,500-5,500¥/night)  
-**💡 Tip:** All activities in same area = easy walking
+**💡 Tip:** All activities in same area = easy walking | **Remaining:** Chopstick Workshop
 
 ---
 
