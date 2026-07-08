@@ -21,9 +21,16 @@
 - ✅ Universal Studios (Days 4-5) - 2-Day Pass confirmed
 - ✅ Nintendo Museum (Day 9, 5:00-8:00 PM) - Confirmed
 - ✅ JR Pass 7-day (~29,650¥) - BOOKED
-- ✅ Hotels (All 4 cities) - BOOKED
 - ✅ Sunscreen SPF50+ - BOUGHT
 - ✅ Water bottle - BOUGHT
+
+**🏨 Hotels Booked**
+| Dates | Location | Nights | Details |
+|-------|----------|--------|---------|
+| Jul 7-8 | Tokyo | 2 | Shinjuku/Shibuya area |
+| Jul 9-12 | Osaka | 4 | Near Universal Studios (Mario days!) |
+| Jul 13-18 | Osaka-Kyoto | 6 | Between Osaka & Kyoto (Kyoto area) |
+| Jul 19-20 | Tokyo | 2 | Shinjuku/Shibuya area |
 
 **Days Completed**
 - **Day 1:** ✅ 6/6 activities DONE
@@ -115,7 +122,8 @@ Activities you can skip without affecting the trip:
 | 17:00-18:30 | Train to park from hotel | 4,000¥ |
 | 18:30-21:00 | Dinner in park + Rest | 5,000¥ |
 
-**Daily Cost:** ~9,000¥ | **💡 Arrive early for shortest lines!**
+**Daily Cost:** ~9,000¥ | **Hotel:** Near Universal Studios  
+**💡 Arrive early for shortest lines!**
 
 ---
 
@@ -129,7 +137,7 @@ Activities you can skip without affecting the trip:
 | 12:00-13:30 | Lunch (Mario themed) | 2,500¥ |
 | 17:30-20:00 | Return to hotel + Dinner | 2,500¥ |
 
-**Daily Cost:** ~5,000¥
+**Daily Cost:** ~5,000¥ | **Hotel:** Near Universal Studios
 
 ---
 
@@ -145,7 +153,7 @@ Activities you can skip without affecting the trip:
 | 17:00-19:00 | AC Rest at hotel | 1,000¥ |
 | 19:00-21:00 | Dinner (Dotonbori) | 2,000¥ |
 
-**Daily Cost:** ~13,100¥
+**Daily Cost:** ~13,100¥ | **Hotel:** Near Universal Studios (last night before Kyoto)
 
 ---
 
@@ -159,7 +167,7 @@ Activities you can skip without affecting the trip:
 | 11:00-16:00 | Hotel check-in + Rest | 1,500¥ |
 | 16:30-20:30 | Walk around + Dinner | 2,500¥ |
 
-**Daily Cost:** ~10,300¥ | **Hotel:** Kawaramachi (3,500-5,000¥/night)
+**Daily Cost:** ~10,300¥ | **Hotel:** Kyoto area (Kawaramachi, 3,500-5,000¥/night)
 
 ---
 
@@ -250,7 +258,7 @@ Activities you can skip without affecting the trip:
 | 14:00-18:00 | 🏪 Broquante (Antique/Flea Market) | 3,000¥ |
 | 18:00-21:00 | Dinner + Rest | 2,000¥ |
 
-**Daily Cost:** ~19,820¥ | **Hotel:** Shinjuku/Shibuya (3,500-5,500¥/night)  
+**Daily Cost:** ~19,820¥ | **Hotel:** Tokyo area (Shinjuku/Shibuya, 3,500-5,500¥/night)  
 **Broquante:** Tokyo's famous antique and flea market!
 
 ---
