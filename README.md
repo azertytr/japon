@@ -1,5 +1,20 @@
 # 🎮 Japon 2026 - Aventure Pokémon & Nintendo
 
+> **Feuille de route visuelle** du voyage de Corentin Bardin — mise à jour chaque soir avec Claude AI.
+
+---
+
+## 🔄 COMMENT CE DOCUMENT FONCTIONNE
+
+Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre dans ce repo.
+
+**Chaque soir :**
+1. 🧳 Corentin raconte sa journée à Claude (ce qui a été fait, pas fait, les imprévus)
+2. ✍️ Claude coche les activités terminées, déplace ce qui n'a pas été fait (reporté au lendemain ou en section Optionnel) et ajuste le plan du jour suivant
+3. 📓 Claude ajoute une ligne au Journal de bord ci-dessous
+
+**Convention de statuts :** ✅ Terminé | 🟡 En cours | ⏳ À venir | 🚫 Optionnel
+
 ---
 
 ## ⚡ RÉFÉRENCE RAPIDE
@@ -10,6 +25,15 @@
 | **Itinéraire** | Tokyo → Osaka → Kyoto → Tokyo |
 | **Budget Total** | ~1 300-1 400€ (~195 000-205 000¥) |
 | **Météo** | 🌡️ Très chaud & humide (30-35°C) - Hydratation constante ! |
+
+---
+
+## 📓 JOURNAL DE BORD
+
+| Soir | Bilan de la journée | Ajustements du plan |
+|------|---------------------|---------------------|
+| **Jour 1** (7 juil) | ✅ 6/6 — Arrivée, Asakusa, Arcade Akihabara, Temple Shogiji, Festival Tanabata | Tanabata avancé du Jour 2 au Jour 1 ; Asakusa & Akihabara avancés du Jour 3 |
+| **Jour 2** (8 juil) | ✅ 3/4 — Shibuya Sky, Centre Pokémon Shibuya, déjeuner | Atelier Baguettes reporté au matin du Jour 3 |
 
 ---
 
@@ -77,7 +101,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ### 🎮 JOUR 2 | Mercredi 8 juillet - SHOPPING À SHIBUYA
 
-**Statut : 🟡 83 % TERMINÉ (5/6 activités)**
+**Statut : 🟡 3/4 activités TERMINÉES**
 
 | Heure | Activité | Statut | Coût |
 |-------|----------|--------|------|
@@ -326,9 +350,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ### ✅ TERMINÉ !
 - [x] **Hôtels** (Tokyo 2 nuits + Osaka 4 nuits + Kyoto 6 nuits + Tokyo 2 nuits) ✅ RÉSERVÉS
-- [x] **JR Pass 7 jours** (~29 650¥) ✅ RÉSERVÉ
-- [x] Crème solaire SPF50+ (grand flacon !) ✅ ACHETÉE
-- [x] Gourde réutilisable ✅ ACHETÉE
 - [x] Chaussures de marche confortables ✅ POSSÉDÉES
 
 ### 🟢 AVANT LE VOL - À FAIRE
