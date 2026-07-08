@@ -20,9 +20,6 @@
 **Réservations & Réservations d'hôtels**
 - ✅ Universal Studios (Jours 4-5) - Forfait 2 jours confirmé
 - ✅ Nintendo Museum (Jour 9, 17h-20h) - Confirmé
-- ✅ JR Pass 7 jours (~29 650¥) - RÉSERVÉ
-- ✅ Crème solaire SPF50+ - ACHETÉE
-- ✅ Gourde réutilisable - ACHETÉE
 
 **🏨 Hôtels Réservés**
 | Dates | Lieu | Nuits | Détails |
@@ -51,7 +48,7 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Jour | Activité | Raison |
 |------|----------|--------|
 | 1 | Tournoi de Sumo | Journée 1 déjà intense |
-| 13 | Broquante (marché aux antiquités) | Amusant mais optionnel - peut être ignoré si fatigué du voyage |
+| 13 | Broquante (marche aux figurines et peluches) | Amusant mais optionnel - peut être ignoré si fatigué du voyage |
 | Divers | Promenades/explorations | Peut être fait à tout moment ou ignoré |
 
 **💡 Conseil :** Gardez cette liste à portée de main si vous êtes fatigué ou si la météo est trop chaude !
@@ -135,7 +132,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 |-------|----------|------|
 | 09:00-17:30 | 🎢 Universal Studios - Revoir favoris + Shopping | Inclus |
 | 12:00-13:30 | Déjeuner (thématisé Mario) | 2 500¥ |
-| 17:30-20:00 | Retour hôtel + Dîner | 2 500¥ |
 
 **Coût quotidien :** ~5 000¥ | **Hôtel :** Près d'Universal Studios
 
@@ -196,7 +192,6 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | 13:00-16:00 | Déjeuner + Repos climatisé à l'hôtel | 2 500¥ |
 | 16:00-16:45 | Transfert vers le Musée Nintendo | 1 500¥ |
 | 17:00-20:00 | 🎮 **MUSÉE NINTENDO** | 3 000¥ |
-| 20:15-21:30 | Dîner rapide + Retour hôtel | 2 000¥ |
 
 **Coût quotidien :** ~18 000¥ | **✅ CONFIRMÉ**
 
