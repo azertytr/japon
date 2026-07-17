@@ -34,8 +34,9 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 |------|---------------------|---------------------|
 | **Jour 1** (7 juil) | ✅ 6/6 — Arrivée, Asakusa, Arcade Akihabara, Temple Shogiji, Festival Tanabata | Tanabata avancé du Jour 2 au Jour 1 ; Asakusa & Akihabara avancés du Jour 3 |
 | **Jour 2** (8 juil) | ✅ 3/4 — Shibuya Sky, Centre Pokémon Shibuya, déjeuner | Atelier Baguettes reporté au matin du Jour 3 |
-| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers) — **Beaucoup de Book-Off et Treasure-Factory visités** | Château d'Osaka reporté au Jour 11 |
-| **Jour 11** (17 juil) | ✅ Forêt Bambou Arashiyama, Château d'Osaka | ❌ Onsen annulé — trop fatigué |
+| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto — Atelier Baguettes, Universal Studios, Musée Nintendo, Château Osaka — **Book-Off & Treasure-Factory prioritaires** | Attractions touristiques standard jugées moins importantes |
+| **Jour 11** (17 juil) | ✅ Château d'Osaka + explorations Book-Off | Forêt Bambou, Onsen, Samouraï ≠ prioritaires |
+| **Jour 12** (18 juil) | 🟡 Transfert vers Tokyo | Ninja & Manga ≠ prioritaires — **Focus sur l'authentique, pas le touristique** |
 
 ---
 
@@ -60,12 +61,13 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
   - Festival Tanabata, Temple Asakusa, Arcade Akihabara, Temple Shogiji
 - **Jour 2 :** ✅ 3/4 activités TERMINÉES
   - Shibuya Sky, Centre Pokémon, Déjeuner
-- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS !
-  - Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka, Forêt Bambou — 🎁 Beaucoup de Book-Off et Treasure-Factory explorés
+- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka — 🎁 Book-Off et Treasure-Factory explorés
+- **Activités non prioritaires :** ❌ Centres Pokémon Osaka & Kyoto | ❌ Forêt Bambou | ❌ Onsen | ❌ Marche Samouraï | ❌ Entraînement Ninja | ❌ Musée Manga | ❌ Fushimi Inari (trop touristiques → remplacés par Book-Off/Treasure-Factory authentiques)
 
-### 📋 À FAIRE (Derniers jours)
+### 📋 À FAIRE (Derniers jours — priorité authentique)
 
-**Jours 12-14 :** Entraînement Ninja, Musée Manga, Broquante, Retour à Tokyo & Départ ⏳
+**Jours 12-14 :** Broquante (marche aux figurines & peluches), Retour à Tokyo & Départ ⏳  
+**Philosophie :** Priorité aux expériences authentiques (Book-Off, Treasure-Factory, Broquante) plutôt qu'aux circuits touristiques standardisés
 
 ---
 
@@ -162,17 +164,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### 🏯 JOUR 6 | Dimanche 12 juillet - CULTURE OSAKA & POKÉMON
+### 🏯 JOUR 6 | Dimanche 12 juillet - REPOS OSAKA & BOOK-OFF
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 11:15-13:00 | ✅ Déjeuner (quartier Dotonbori) | 2 500¥ |
-| 13:00-17:00 | ✅ Centre Pokémon + Arcades (Dotonbori) + Book-Off exploration | 7 000¥ |
+| 13:00-17:00 | ✅ Book-Off exploration + Treasure-Factory | Gratuit |
 
-**Coût quotidien :** ~9 500¥ | **Hôtel :** Près d'Universal Studios (dernière nuit avant Kyoto)  
-**Note :** Château d'Osaka reporté au Jour 11
+**Coût quotidien :** ~2 500¥ | **Hôtel :** Près d'Universal Studios (dernière nuit avant Kyoto)  
+**Note :** Château d'Osaka reporté au Jour 11 ; Centre Pokémon Osaka annulé
 
 ---
 
@@ -209,53 +211,54 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 09:00-10:30 | ✅ Atelier Hanko (Sceau) | 4 000¥ |
-| 11:00-13:00 | ✅ Centre Pokémon Kyoto + Treasure-Factory | 5 000¥ |
+| 11:00-13:00 | ✅ Déjeuner + Repos | 2 500¥ |
 | 16:00-16:45 | ✅ Transfert vers le Musée Nintendo | 1 500¥ |
 | 17:00-20:00 | ✅ **MUSÉE NINTENDO** | 3 000¥ |
 
-**Coût quotidien :** ~18 000¥ | **✅ CONFIRMÉ**
+**Coût quotidien :** ~11 000¥ | **✅ CONFIRMÉ**  
+**Note :** Centre Pokémon Kyoto annulé
 
 ---
 
-### ⚔️ JOUR 10 | Jeudi 16 juillet - MARCHE DE SAMOURAÏ & PORTES DE TEMPLE
+### ⚔️ JOUR 10 | Jeudi 16 juillet - EXPLORATIONS KYOTO
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | ✅ Marche de Samouraï (techniques + costume) | 4 000¥ |
-| 12:00-16:00 | ✅ Déjeuner + Repos climatisé | 2 500¥ |
-| 17:00-21:00 | ✅ Fushimi Inari (10 000 portes de temple) | 3 000¥ |
+| 12:00-16:00 | ✅ Déjeuner + Repos | 2 500¥ |
+| 17:00-21:00 | ✅ Book-Off & Treasure-Factory explorations | Gratuit |
 
-**Coût quotidien :** ~9 500¥
+**Coût quotidien :** ~2 500¥  
+**Note :** Marche Samouraï & Fushimi Inari remplacées par Book-Off/Treasure-Factory (priorité authenticité > tourisme)
 
 ---
 
-### 🌿 JOUR 11 | Vendredi 17 juillet - FORÊT DE BAMBOU & CHÂTEAU OSAKA
+### 🌿 JOUR 11 | Vendredi 17 juillet - CHÂTEAU OSAKA & REPOS
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | ✅ Forêt de Bambou Arashiyama + Promenade temple | Gratuit |
-| 12:15-14:00 | ✅ Déjeuner (zone calme) | 2 500¥ |
-| 14:00-17:00 | ✅ Château d'Osaka (reporté du Jour 6) | 600¥ |
+| 12:00-14:00 | ✅ Déjeuner | 2 500¥ |
+| 14:00-17:00 | ✅ Château d'Osaka : Vue + Musée de la muraille de pierre | 600¥ |
 
 **Coût quotidien :** ~3 100¥  
-**Note :** Onsen annulé (fatigue du voyage) — Treasure-Factory et Book-Off explorés en priorité
+**Note :** Château incluait vue panoramique et visite du musée de la muraille de pierre (histoire forteresse)
 
 ---
 
-### 🥋 JOUR 12 | Samedi 18 juillet - ENTRAÎNEMENT NINJA & MUSÉE MANGA
+### 🥋 JOUR 12 | Samedi 18 juillet - REPOS & TRANSFERT TOKYO
 
 **Statut : ⏳ À VENIR**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | Entraînement Ninja (shurikens + costume) | 4 000¥ |
-| 14:00-16:30 | Musée Manga Kyoto (300 000 volumes) | 900¥ |
+| 09:00-16:00 | Repos à l'hôtel + Préparation départ | Gratuit |
+| 16:00+ | Transfert vers Tokyo (train ou route) | ~10 000¥ |
 
-**Coût quotidien :** ~10 400¥
+**Coût quotidien :** ~10 000¥  
+**Note :** Entraînement Ninja & Musée Manga annulés — priorité complète récupération avant retour Tokyo
 
 ---
 
@@ -349,6 +352,13 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | **Statut** | ✅ Déjà réservé ! |
 | **Inclut** | Tous les manèges + entrée au parc |
 
+### 🚌 Cartes IC illimitées 24h & Trajets en bus
+
+⚠️ **Attention piège transport :**
+- **Cartes illimitées 24h** : Zone souvent limitée (centre-ville uniquement) — À clarifier avant achat ! Pas de zones claires expliquées officiellement
+- **Bus courts vs longs** : Trajet court = cher (même prix que court-trajet train). Trajet long = plus rentable. Évaluer bien avant d'acheter abonnement
+- **Conseil** : Vérifier coût trajet unique vs forfait 24h pour ta géographie réelle
+
 ---
 
 ## ✅ AVANT DE PARTIR - LISTE DE CONTRÔLE
@@ -396,6 +406,16 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 - 🥘 Okonomiyaki (spécialité d'Osaka)
 - 🍣 Sushi près des gares
 - 🍙 Onigiri des magasins de dépannage (pas cher & bon !)
+
+### 🏪 Magasins Pratiques à Connaître
+- **Lawson** : Comme Family Mart — magasin de dépannage 24/7, boissons, snacks, préparations
+- **Daiso** : Type Action français — tout & n'importe quoi : objets, accessoires, bouteilles d'eau 💧 **50¥** (très cher !), emballage papier bulle **100¥** (bon pour protéger achats)
+- **Family Mart / 7-Eleven** : Eau moins chère qu'à Daiso, distributeurs automatiques partout (eau ~100¥, boissons 150¥)
+
+### 💰 Bons Plans Découverts
+- **Eau à 50¥ (Daiso)** : Chercher d'abord Family Mart/7-Eleven (~100¥, moins cher ailleurs)
+- **Book-Off & Treasure-Factory** : Meilleure découverte du voyage — plus authentique que circuits touristiques
+- **Budget trajets bus** : Court-trajet = cher ; long-trajet = plus rentable. Calculer au cas par cas
 
 ---
 
