@@ -71,17 +71,22 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 
 ---
 
-## 🚫 OPTIONNEL / PEUT ÊTRE IGNORÉ (Si vous le souhaitez)
+## 🚫 OPTIONNEL / PAS FAIT (Priorité authentique > tourisme standard)
 
-Activités que vous pouvez ignorer sans affecter le voyage :
+Activités annulées ou non prioritaires — **remplacées par des expériences authentiques** (Book-Off, Treasure-Factory) :
 
 | Jour | Activité | Raison |
 |------|----------|--------|
-| 1 | Tournoi de Sumo | Journée 1 déjà intense |
-| 13 | Broquante (marche aux figurines et peluches) | Amusant mais optionnel - peut être ignoré si fatigué du voyage |
-| Divers | Promenades/explorations | Peut être fait à tout moment ou ignoré |
+| 9 | Centre Pokémon Kyoto | Remplacé par atelier Hanko & Musée Nintendo |
+| 6 | Centre Pokémon Osaka | Remplacé par explorations Book-Off/Treasure-Factory |
+| 10 | Forêt de Bambou Arashiyama | Trop touristique → priorité à l'authenticité |
+| 11 | Onsen | Trop touristique → priorité à l'authenticité |
+| 10 | Marche Samouraï (Kyoto) | Trop touristique → remplacé par Book-Off/Treasure-Factory |
+| 12 | Entraînement Ninja | Trop touristique → priorité récupération avant retour |
+| Divers | Musée Manga | Trop touristique → priorité à l'authenticité |
+| Divers | Fushimi Inari (10 000 portes) | Trop touristique → remplacé par découvertes authentiques |
 
-**💡 Conseil :** Gardez cette liste à portée de main si vous êtes fatigué ou si la météo est trop chaude !
+**📌 Philosophie :** Voyage axé sur les **expériences authentiques** (culture locale, découvertes personnelles, Book-Off/Treasure-Factory) plutôt que sur les circuits touristiques standardisés
 
 ---
 
@@ -114,9 +119,8 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | 09:00-11:00 | ✅ Shibuya Sky (vue 360°) | Terminé | 3 000¥ |
 | 11:15-13:00 | ✅ Centre Pokémon Shibuya | Terminé | 5 000¥ |
 | 13:00-14:30 | ✅ Déjeuner à Shibuya | Terminé | 2 500¥ |
-| 17:00-18:30 | ⏳ Atelier Baguettes (Ginza) | **EN ATTENTE** | 4 000¥ |
 
-**Coût quotidien :** ~16 000¥ | **Restant :** Atelier Baguettes
+**Coût quotidien :** ~10 500¥
 
 ---
 
@@ -390,16 +394,16 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 ## 💡 CONSEILS PRATIQUES
 
 ### ✨ Meilleurs Endroits pour les Photos
-- Passage Shibuya (vue depuis Shibuya Sky)
-- Temple Ginkaku-ji (jardins)
-- Temple Fushimi Inari (10 000 portes)
-- Forêt de Bambou Arashiyama
+- Passage Shibuya (vue depuis Shibuya Sky) ✅
+- Temple Ginkaku-ji (jardins) ✅
+- Château d'Osaka (vue panoramique) ✅
+- Book-Off & Treasure-Factory (découvertes authentiques) ✅
 
 ### 🎮 Centres Pokémon à Visiter
 - ✅ Akihabara (Jour 1 TERMINÉ)
-- Shibuya (Jour 2)
-- Osaka (Jour 6)
-- Kyoto (Jour 9)
+- ✅ Shibuya (Jour 2 TERMINÉ)
+- ❌ Osaka (Jour 6) — Annulé, remplacé par Book-Off/Treasure-Factory
+- ❌ Kyoto (Jour 9) — Annulé, remplacé par Musée Nintendo & atelier Hanko
 
 ### 🍽️ Aliments à Essayer Absolument
 - 🍜 Ramen (Shibuya, Osaka, Kyoto)
