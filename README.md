@@ -241,10 +241,10 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 12:00-14:00 | ✅ Déjeuner | 2 500¥ |
-| 14:00-17:00 | ✅ Château d'Osaka (reporté du Jour 6) | 600¥ |
+| 14:00-17:00 | ✅ Château d'Osaka : Vue + Musée de la muraille de pierre | 600¥ |
 
 **Coût quotidien :** ~3 100¥  
-**Note :** Forêt de Bambou annulée (fatigue) — Onsen annulé (fatigue du voyage) — Priorité à la récupération
+**Note :** Château incluait vue panoramique et visite du musée de la muraille de pierre (histoire forteresse)
 
 ---
 
@@ -352,6 +352,13 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | **Statut** | ✅ Déjà réservé ! |
 | **Inclut** | Tous les manèges + entrée au parc |
 
+### 🚌 Cartes IC illimitées 24h & Trajets en bus
+
+⚠️ **Attention piège transport :**
+- **Cartes illimitées 24h** : Zone souvent limitée (centre-ville uniquement) — À clarifier avant achat ! Pas de zones claires expliquées officiellement
+- **Bus courts vs longs** : Trajet court = cher (même prix que court-trajet train). Trajet long = plus rentable. Évaluer bien avant d'acheter abonnement
+- **Conseil** : Vérifier coût trajet unique vs forfait 24h pour ta géographie réelle
+
 ---
 
 ## ✅ AVANT DE PARTIR - LISTE DE CONTRÔLE
@@ -399,6 +406,16 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 - 🥘 Okonomiyaki (spécialité d'Osaka)
 - 🍣 Sushi près des gares
 - 🍙 Onigiri des magasins de dépannage (pas cher & bon !)
+
+### 🏪 Magasins Pratiques à Connaître
+- **Lawson** : Comme Family Mart — magasin de dépannage 24/7, boissons, snacks, préparations
+- **Daiso** : Type Action français — tout & n'importe quoi : objets, accessoires, bouteilles d'eau 💧 **50¥** (très cher !), emballage papier bulle **100¥** (bon pour protéger achats)
+- **Family Mart / 7-Eleven** : Eau moins chère qu'à Daiso, distributeurs automatiques partout (eau ~100¥, boissons 150¥)
+
+### 💰 Bons Plans Découverts
+- **Eau à 50¥ (Daiso)** : Chercher d'abord Family Mart/7-Eleven (~100¥, moins cher ailleurs)
+- **Book-Off & Treasure-Factory** : Meilleure découverte du voyage — plus authentique que circuits touristiques
+- **Budget trajets bus** : Court-trajet = cher ; long-trajet = plus rentable. Calculer au cas par cas
 
 ---
 
