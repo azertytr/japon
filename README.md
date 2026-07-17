@@ -34,8 +34,8 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 |------|---------------------|---------------------|
 | **Jour 1** (7 juil) | ✅ 6/6 — Arrivée, Asakusa, Arcade Akihabara, Temple Shogiji, Festival Tanabata | Tanabata avancé du Jour 2 au Jour 1 ; Asakusa & Akihabara avancés du Jour 3 |
 | **Jour 2** (8 juil) | ✅ 3/4 — Shibuya Sky, Centre Pokémon Shibuya, déjeuner | Atelier Baguettes reporté au matin du Jour 3 |
-| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers) — **Beaucoup de Book-Off et Treasure-Factory visités** | Château d'Osaka reporté au Jour 11 |
-| **Jour 11** (17 juil) | ✅ Forêt Bambou Arashiyama, Château d'Osaka | ❌ Onsen annulé — trop fatigué |
+| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers) — **Beaucoup de Book-Off et Treasure-Factory visités** | Centre Pokémon Osaka & Kyoto annulés (fatigue) |
+| **Jour 11** (17 juil) | ✅ Château d'Osaka | ❌ Forêt Bambou annulée ❌ Onsen annulé — Priorité récupération après 11 jours intenses |
 
 ---
 
@@ -60,12 +60,14 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
   - Festival Tanabata, Temple Asakusa, Arcade Akihabara, Temple Shogiji
 - **Jour 2 :** ✅ 3/4 activités TERMINÉES
   - Shibuya Sky, Centre Pokémon, Déjeuner
-- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS !
-  - Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka, Forêt Bambou — 🎁 Beaucoup de Book-Off et Treasure-Factory explorés
+- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS (en priorité récupération) !
+  - Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka — 🎁 Beaucoup de Book-Off et Treasure-Factory explorés
+  - ❌ Centres Pokémon Osaka & Kyoto annulés | ❌ Forêt Bambou annulée | ❌ Onsen annulé (épuisement à mi-parcours)
 
-### 📋 À FAIRE (Derniers jours)
+### 📋 À FAIRE (Derniers jours — mode récupération activé)
 
-**Jours 12-14 :** Entraînement Ninja, Musée Manga, Broquante, Retour à Tokyo & Départ ⏳
+**Jours 12-14 :** Entraînement Ninja, Musée Manga, Broquante, Retour à Tokyo & Départ ⏳  
+**Conseil :** Continuer à écouter ton corps — certaines activités peuvent être reportées à "optionnel" si besoin
 
 ---
 
@@ -162,17 +164,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### 🏯 JOUR 6 | Dimanche 12 juillet - CULTURE OSAKA & POKÉMON
+### 🏯 JOUR 6 | Dimanche 12 juillet - REPOS OSAKA & BOOK-OFF
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 11:15-13:00 | ✅ Déjeuner (quartier Dotonbori) | 2 500¥ |
-| 13:00-17:00 | ✅ Centre Pokémon + Arcades (Dotonbori) + Book-Off exploration | 7 000¥ |
+| 13:00-17:00 | ✅ Book-Off exploration + Treasure-Factory | Gratuit |
 
-**Coût quotidien :** ~9 500¥ | **Hôtel :** Près d'Universal Studios (dernière nuit avant Kyoto)  
-**Note :** Château d'Osaka reporté au Jour 11
+**Coût quotidien :** ~2 500¥ | **Hôtel :** Près d'Universal Studios (dernière nuit avant Kyoto)  
+**Note :** Château d'Osaka reporté au Jour 11 ; Centre Pokémon Osaka annulé
 
 ---
 
@@ -209,11 +211,12 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 | Heure | Activité | Coût |
 |-------|----------|------|
 | 09:00-10:30 | ✅ Atelier Hanko (Sceau) | 4 000¥ |
-| 11:00-13:00 | ✅ Centre Pokémon Kyoto + Treasure-Factory | 5 000¥ |
+| 11:00-13:00 | ✅ Déjeuner + Repos | 2 500¥ |
 | 16:00-16:45 | ✅ Transfert vers le Musée Nintendo | 1 500¥ |
 | 17:00-20:00 | ✅ **MUSÉE NINTENDO** | 3 000¥ |
 
-**Coût quotidien :** ~18 000¥ | **✅ CONFIRMÉ**
+**Coût quotidien :** ~11 000¥ | **✅ CONFIRMÉ**  
+**Note :** Centre Pokémon Kyoto annulé
 
 ---
 
@@ -231,18 +234,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### 🌿 JOUR 11 | Vendredi 17 juillet - FORÊT DE BAMBOU & CHÂTEAU OSAKA
+### 🌿 JOUR 11 | Vendredi 17 juillet - CHÂTEAU OSAKA & REPOS
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | ✅ Forêt de Bambou Arashiyama + Promenade temple | Gratuit |
-| 12:15-14:00 | ✅ Déjeuner (zone calme) | 2 500¥ |
+| 12:00-14:00 | ✅ Déjeuner | 2 500¥ |
 | 14:00-17:00 | ✅ Château d'Osaka (reporté du Jour 6) | 600¥ |
 
 **Coût quotidien :** ~3 100¥  
-**Note :** Onsen annulé (fatigue du voyage) — Treasure-Factory et Book-Off explorés en priorité
+**Note :** Forêt de Bambou annulée (fatigue) — Onsen annulé (fatigue du voyage) — Priorité à la récupération
 
 ---
 
