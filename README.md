@@ -34,8 +34,9 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 |------|---------------------|---------------------|
 | **Jour 1** (7 juil) | ✅ 6/6 — Arrivée, Asakusa, Arcade Akihabara, Temple Shogiji, Festival Tanabata | Tanabata avancé du Jour 2 au Jour 1 ; Asakusa & Akihabara avancés du Jour 3 |
 | **Jour 2** (8 juil) | ✅ 3/4 — Shibuya Sky, Centre Pokémon Shibuya, déjeuner | Atelier Baguettes reporté au matin du Jour 3 |
-| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers) — **Beaucoup de Book-Off et Treasure-Factory visités** | Centre Pokémon Osaka & Kyoto annulés (fatigue) |
-| **Jour 11** (17 juil) | ✅ Château d'Osaka | ❌ Forêt Bambou annulée ❌ Onsen annulé — Priorité récupération après 11 jours intenses |
+| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo) | Centre Pokémon Osaka & Kyoto annulés |
+| **Jour 11** (17 juil) | ✅ Château d'Osaka | ❌ Forêt Bambou ❌ Onsen ❌ Samouraï annulés |
+| **Jour 12** (18 juil) | 🟡 Repos + Transfert vers Tokyo | ❌ Ninja ❌ Manga annulés — **Mode récupération complète activé** |
 
 ---
 
@@ -60,14 +61,13 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
   - Festival Tanabata, Temple Asakusa, Arcade Akihabara, Temple Shogiji
 - **Jour 2 :** ✅ 3/4 activités TERMINÉES
   - Shibuya Sky, Centre Pokémon, Déjeuner
-- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS (en priorité récupération) !
-  - Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka — 🎁 Beaucoup de Book-Off et Treasure-Factory explorés
-  - ❌ Centres Pokémon Osaka & Kyoto annulés | ❌ Forêt Bambou annulée | ❌ Onsen annulé (épuisement à mi-parcours)
+- **Jours 3-11 :** ✅ TOUS COMPLÉTÉS — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka — 🎁 Book-Off et Treasure-Factory explorés
+- **Annulations pour récupération :** ❌ Centres Pokémon Osaka & Kyoto | ❌ Forêt Bambou | ❌ Onsen | ❌ Marche Samouraï | ❌ Entraînement Ninja | ❌ Musée Manga (épuisement chaleur = priorité santé)
 
-### 📋 À FAIRE (Derniers jours — mode récupération activé)
+### 📋 À FAIRE (Derniers jours — mode récupération total)
 
-**Jours 12-14 :** Entraînement Ninja, Musée Manga, Broquante, Retour à Tokyo & Départ ⏳  
-**Conseil :** Continuer à écouter ton corps — certaines activités peuvent être reportées à "optionnel" si besoin
+**Jours 12-14 :** Repos total, Broquante (si énergie), Retour à Tokyo & Départ ⏳  
+**Mode d'emploi :** Récupération d'abord — seule la Broquante reste si tu te sens bien, sinon repos complet
 
 ---
 
@@ -220,17 +220,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### ⚔️ JOUR 10 | Jeudi 16 juillet - MARCHE DE SAMOURAÏ & PORTES DE TEMPLE
+### ⚔️ JOUR 10 | Jeudi 16 juillet - REPOS KYOTO
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | ✅ Marche de Samouraï (techniques + costume) | 4 000¥ |
 | 12:00-16:00 | ✅ Déjeuner + Repos climatisé | 2 500¥ |
-| 17:00-21:00 | ✅ Fushimi Inari (10 000 portes de temple) | 3 000¥ |
+| 17:00-21:00 | ✅ Promenade détente (Fushimi Inari optionnel) | Gratuit |
 
-**Coût quotidien :** ~9 500¥
+**Coût quotidien :** ~2 500¥  
+**Note :** Marche de Samouraï annulée (épuisement)
 
 ---
 
@@ -248,16 +248,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### 🥋 JOUR 12 | Samedi 18 juillet - ENTRAÎNEMENT NINJA & MUSÉE MANGA
+### 🥋 JOUR 12 | Samedi 18 juillet - REPOS & TRANSFERT TOKYO
 
 **Statut : ⏳ À VENIR**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 09:00-12:00 | Entraînement Ninja (shurikens + costume) | 4 000¥ |
-| 14:00-16:30 | Musée Manga Kyoto (300 000 volumes) | 900¥ |
+| 09:00-16:00 | Repos à l'hôtel + Préparation départ | Gratuit |
+| 16:00+ | Transfert vers Tokyo (train ou route) | ~10 000¥ |
 
-**Coût quotidien :** ~10 400¥
+**Coût quotidien :** ~10 000¥  
+**Note :** Entraînement Ninja & Musée Manga annulés — priorité complète récupération avant retour Tokyo
 
 ---
 
