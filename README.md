@@ -34,9 +34,9 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 |------|---------------------|---------------------|
 | **Jour 1** (7 juil) | ✅ 6/6 — Arrivée, Asakusa, Arcade Akihabara, Temple Shogiji, Festival Tanabata | Tanabata avancé du Jour 2 au Jour 1 ; Asakusa & Akihabara avancés du Jour 3 |
 | **Jour 2** (8 juil) | ✅ 3/4 — Shibuya Sky, Centre Pokémon Shibuya, déjeuner | Atelier Baguettes reporté au matin du Jour 3 |
-| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto explorations — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo) | Centre Pokémon Osaka & Kyoto annulés |
-| **Jour 11** (17 juil) | ✅ Château d'Osaka | ❌ Forêt Bambou ❌ Onsen ❌ Samouraï annulés |
-| **Jour 12** (18 juil) | 🟡 Repos + Transfert vers Tokyo | ❌ Ninja ❌ Manga annulés — **Mode récupération complète activé** |
+| **Jours 3-10** (9-16 juil) | ✅ Tokyo → Osaka → Kyoto — Atelier Baguettes, Universal Studios, Musée Nintendo, Château Osaka — **Book-Off & Treasure-Factory prioritaires** | Attractions touristiques standard jugées moins importantes |
+| **Jour 11** (17 juil) | ✅ Château d'Osaka + explorations Book-Off | Forêt Bambou, Onsen, Samouraï ≠ prioritaires |
+| **Jour 12** (18 juil) | 🟡 Transfert vers Tokyo | Ninja & Manga ≠ prioritaires — **Focus sur l'authentique, pas le touristique** |
 
 ---
 
@@ -62,12 +62,12 @@ Ce README est la **seule source de vérité** du voyage. Il n'y a rien d'autre d
 - **Jour 2 :** ✅ 3/4 activités TERMINÉES
   - Shibuya Sky, Centre Pokémon, Déjeuner
 - **Jours 3-11 :** ✅ TOUS COMPLÉTÉS — Atelier Baguettes, Universal Studios (2 jours), Kyoto (temples, ateliers, Musée Nintendo), Château Osaka — 🎁 Book-Off et Treasure-Factory explorés
-- **Annulations pour récupération :** ❌ Centres Pokémon Osaka & Kyoto | ❌ Forêt Bambou | ❌ Onsen | ❌ Marche Samouraï | ❌ Entraînement Ninja | ❌ Musée Manga (épuisement chaleur = priorité santé)
+- **Activités non prioritaires :** ❌ Centres Pokémon Osaka & Kyoto | ❌ Forêt Bambou | ❌ Onsen | ❌ Marche Samouraï | ❌ Entraînement Ninja | ❌ Musée Manga | ❌ Fushimi Inari (trop touristiques → remplacés par Book-Off/Treasure-Factory authentiques)
 
-### 📋 À FAIRE (Derniers jours — mode récupération total)
+### 📋 À FAIRE (Derniers jours — priorité authentique)
 
-**Jours 12-14 :** Repos total, Broquante (si énergie), Retour à Tokyo & Départ ⏳  
-**Mode d'emploi :** Récupération d'abord — seule la Broquante reste si tu te sens bien, sinon repos complet
+**Jours 12-14 :** Broquante (marche aux figurines & peluches), Retour à Tokyo & Départ ⏳  
+**Philosophie :** Priorité aux expériences authentiques (Book-Off, Treasure-Factory, Broquante) plutôt qu'aux circuits touristiques standardisés
 
 ---
 
@@ -220,17 +220,17 @@ Activités que vous pouvez ignorer sans affecter le voyage :
 
 ---
 
-### ⚔️ JOUR 10 | Jeudi 16 juillet - REPOS KYOTO
+### ⚔️ JOUR 10 | Jeudi 16 juillet - EXPLORATIONS KYOTO
 
 **Statut : ✅ TERMINÉ**
 
 | Heure | Activité | Coût |
 |-------|----------|------|
-| 12:00-16:00 | ✅ Déjeuner + Repos climatisé | 2 500¥ |
-| 17:00-21:00 | ✅ Promenade détente (Fushimi Inari optionnel) | Gratuit |
+| 12:00-16:00 | ✅ Déjeuner + Repos | 2 500¥ |
+| 17:00-21:00 | ✅ Book-Off & Treasure-Factory explorations | Gratuit |
 
 **Coût quotidien :** ~2 500¥  
-**Note :** Marche de Samouraï annulée (épuisement)
+**Note :** Marche Samouraï & Fushimi Inari remplacées par Book-Off/Treasure-Factory (priorité authenticité > tourisme)
 
 ---
 
